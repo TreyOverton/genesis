@@ -77,6 +77,12 @@
           name: sidebarName,
           repo: false,
           loadSidebar: true,
+          // Force any nested _sidebar.md request back to the root file,
+          // so Firebase's catch-all rewrite doesn't serve index.html as
+          // the sidebar on deep-linked pages.
+          alias: {
+            '/.*/_sidebar.md': '/_sidebar.md'
+          },
           subMaxLevel: docsifyOpts.subMaxLevel || 3,
           auto2top: true,
           search: docsifyOpts.search ? {
