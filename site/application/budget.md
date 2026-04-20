@@ -23,7 +23,7 @@
 
 - Cost share is **focus-area-specific**. Check the chosen focus area's description in [III.A Purpose](../rfa/pages/3-program-description.md) for required percentages.
 - General cost-share rules are in [II.B Cost Sharing](../rfa/pages/2-eligibility.md).
-- As of current reading, **1-D and 2-E do not list cost share as required** (unlike, e.g., Challenge 4 focus areas which require 20% R&D / 50% Demonstration). Confirm before finalizing the budget.
+- As of current reading, **2-E does not list cost share as required** (unlike, e.g., Challenge 4 focus areas which require 20% R&D / 50% Demonstration). Confirm before finalizing the budget.
 
 ## Budget categories (standard R&R fields)
 

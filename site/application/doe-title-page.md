@@ -14,7 +14,7 @@ Front matter of the single Project Narrative PDF (attached to Field 8). **Does n
 - Administrative Point of Contact name, telephone, email
 - RFA Number: **DE-FOA-0003612**
 - Application Stage: **Phase I**
-- Primary challenge and focus area per [Section III](../rfa/pages/3-program-description.md) *(pending decision — see [Open Questions](../open-questions.md))*
+- Primary challenge and focus area per [Section III](../rfa/pages/3-program-description.md): **2 (Scaling the Biotechnology Revolution) | E (AI-Enabled Biological Reaction Engineering, Bioreactor Design, Process Scale-up and Integration)**
 
 ## Senior/Key Personnel table
 
@@ -54,7 +54,7 @@ Do not attach appendices separately to Fields 9, 10, 11, or 12 (with the excepti
 
 ## Content
 
-*[fill in once focus area is chosen]*
+*[draft here]*
 
 ## References
 

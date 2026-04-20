@@ -6,7 +6,7 @@
 
 | | |
 |---|---|
-| **Target focus area** | Challenge 1-D (*Digitalization of Industrial Processes*) **or** 2-E (*AI-Enabled Biological Reaction Engineering, Bioreactor Design, Process Scale-up and Integration*) — **decision pending** ([Open Questions](open-questions.md)) |
+| **Target focus area** | Challenge **2-E** — *AI-Enabled Biological Reaction Engineering, Bioreactor Design, Process Scale-up and Integration*. See [Win Likelihood](win-likelihood.md) for competitive take. |
 | **Application stage** | Phase I only (no LOI required) |
 | **Submission deadline** | **2026-04-28, 11:59 PM Eastern** |
 | **Team** | Eric Jorgenson (PD/PI) · Trey Overton (Software Architect) · Ian Overton (Project Manager) · Joel Achankeng (Senior Software Engineer) · *+ Erin (Lab Tech, TBD)* |

@@ -106,7 +106,7 @@ E. AI-Enabled Biological Reaction Engineering, Bioreactor Design, Process Scale-
 
 ### Other Challenge Areas
 
-The remaining challenge areas are out of scope for this proposal — we are focusing on **Challenge 1, Focus Area D (Digitalization of Industrial Processes)** and **Challenge 2, Focus Area E (AI-Enabled Biological Reaction Engineering, Bioreactor Design, Process Scale-up and Integration)**. Titles are listed below for quick scanning; see the [source PDF](../DE-FOA-0003612.pdf) (pp. 21–58) for full descriptions.
+We are focusing on **Challenge 2, Focus Area E (AI-Enabled Biological Reaction Engineering, Bioreactor Design, Process Scale-up and Integration)** — see [Win Likelihood](../../win-likelihood.md) for the rationale. Challenge 1 content is retained above as reference in case we revisit. The remaining challenge areas are listed below for quick scanning; see the [source PDF](../DE-FOA-0003612.pdf) (pp. 21–58) for full descriptions.
 
 - 3 – Securing America’s Critical Minerals Supply
 - 4 - Delivering Nuclear Energy that is Faster, Safer, Cheaper

@@ -8,7 +8,7 @@ Drafting workspace for our Phase I submission under DOE RFA **DE-FOA-0003612** (
 |------|-------|
 | RFA | [DE-FOA-0003612](../rfa/DE-FOA-0003612.pdf ':ignore') |
 | Stage | Phase I only |
-| Focus area | 1-D or 2-E — **[decision pending](../open-questions.md)** |
+| Focus area | **2-E** — AI-Enabled Biological Reaction Engineering, Bioreactor Design, Process Scale-up and Integration. See [Win Likelihood](../win-likelihood.md) |
 | LOI | Not required (Phase I only) |
 | Submission deadline | **2026-04-28, 11:59 PM Eastern** |
 | Award cap | $500,000 – $750,000 over 9 months |

@@ -1,5 +1,6 @@
 - [Summary](/)
 - [Open Questions](open-questions.md)
+- [Win Likelihood](win-likelihood.md)
 - **APPLICATION**
 - [Overview](application/)
 - [Project Narrative](application/project-narrative.md)
