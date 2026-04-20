@@ -11,10 +11,10 @@
 :root {
   --theme-color: #F3C324;             /* ETSU gold */
   --theme-color-teal: #FFD966;        /* lighter gold — links */
-  --base-background-color: #0F1E3F;   /* ETSU navy — content bg */
+  --base-background-color: #0B1426;   /* dark navy, near-black — content bg */
   --base-color: #E5E7EB;              /* off-white body text */
-  --sidebar-background: #0A1735;      /* slightly darker navy — sidebar */
+  --sidebar-background: #0A1735;      /* ETSU navy — sidebar */
 }
 
-body { background: #0F1E3F; font-size: 16px; }
+body { background: #0B1426; font-size: 16px; }
 .markdown-section { font-size: 16px; }
