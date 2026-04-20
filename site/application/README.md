@@ -11,13 +11,18 @@ Drafting workspace for our Phase I submission under DOE RFA **DE-FOA-0003612** (
 | Focus area | 1-D or 2-E — **[decision pending](../open-questions.md)** |
 | LOI | Not required (Phase I only) |
 | Submission deadline | **2026-04-28, 11:59 PM Eastern** |
-| Expected award | $500,000 – $750,000 over 9 months |
+| Award cap | $500,000 – $750,000 over 9 months |
+| Our target ask | **above $500K, below the $750K cap** — sized to pay all four team members for the full 9 months |
 | Project Narrative page limit | 5 pages technical |
 
 ## Team
 
-- **Trey Overton** — lead
-- **Eric Jorgenson** — collaborator
+- **Eric Jorgenson** — Lead PI
+- **Trey Overton** — Software Architect
+- **Ian Overton** — Program Manager
+- **Joel Achankeng** — Lead Developer
+
+Budget is built around paying all four for 9 months, landing above the $500K floor and below the $750K cap. See [Budget & Justification](budget.md).
 
 ## Phase I component overview
 

@@ -1,4 +1,4 @@
-# Genesis
+# Genesis Grant
 
 **Phase I application** for DOE RFA [DE-FOA-0003612](rfa/DE-FOA-0003612.pdf ':ignore') — *The Genesis Mission: Transforming Science and Energy with AI*.
 
@@ -9,7 +9,7 @@
 | **Target focus area** | Challenge 1-D (*Digitalization of Industrial Processes*) **or** 2-E (*AI-Enabled Biological Reaction Engineering, Bioreactor Design, Process Scale-up and Integration*) — **decision pending** ([Open Questions](open-questions.md)) |
 | **Application stage** | Phase I only (no LOI required) |
 | **Submission deadline** | **2026-04-28, 11:59 PM Eastern** |
-| **Team** | Trey Overton · Eric Jorgenson |
+| **Team** | Eric Jorgenson (Lead PI) · Trey Overton (Software Architect) · Ian Overton (Program Manager) · Joel Achankeng (Lead Developer) |
 
 ## Application checklist
 

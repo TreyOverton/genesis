@@ -18,8 +18,10 @@ In addition to biographical sketches (which live on the Senior/Key Person Profil
 
 | Person | Activities drafted? |
 |--------|---------------------|
-| Trey Overton | [ ] |
 | Eric Jorgenson | [ ] |
+| Trey Overton | [ ] |
+| Ian Overton | [ ] |
+| Joel Achankeng | [ ] |
 
 ## Content
 

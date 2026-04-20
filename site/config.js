@@ -6,14 +6,14 @@
  */
 window.TABULAKIT_CONFIG = {
   // Site identity
-  name: "Genesis",
+  name: "Genesis Grant",
   description: "Preparing a grant proposal as part of the DOE's Genesis Mission",
   logo: "assets/logo.png",  // Path to logo image (optional, shown in sidebar)
 
   // Theme colors (CSS custom property overrides)
   theme: {
-    color: "#64748b",           // Primary accent color (headings)
-    tealColor: "#94a3b8",       // Secondary accent (links, nav highlights)
+    color: "#F3C324",           // Primary accent color (headings) — ETSU gold
+    tealColor: "#FFD966",       // Secondary accent (links, nav highlights)
     sidebarWidth: "280px",
     baseFontSize: "16px"
   },

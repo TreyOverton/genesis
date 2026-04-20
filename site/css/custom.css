@@ -7,14 +7,14 @@
  * This file is yours — it is never modified by TabulaKit updates.
  */
 
-/* ===== Minimal color scheme ===== */
+/* ===== ETSU color scheme ===== */
 :root {
-  --theme-color: #64748b;
-  --theme-color-teal: #94a3b8;
-  --base-background-color: #171717;
-  --base-color: #d4d4d4;
-  --sidebar-background: #1e1e1e;
+  --theme-color: #F3C324;             /* ETSU gold */
+  --theme-color-teal: #FFD966;        /* lighter gold — links */
+  --base-background-color: #0F1E3F;   /* ETSU navy — content bg */
+  --base-color: #E5E7EB;              /* off-white body text */
+  --sidebar-background: #0A1735;      /* slightly darker navy — sidebar */
 }
 
-body { background: #171717; font-size: 16px; }
+body { background: #0F1E3F; font-size: 16px; }
 .markdown-section { font-size: 16px; }

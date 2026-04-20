@@ -17,8 +17,10 @@ Attachments per person:
 
 | Role | Name | Institution | Email | Biosketch | C&P |
 |------|------|-------------|-------|-----------|-----|
-| Lead PI | Trey Overton |  |  | [ ] | [ ] |
-| Co-I | Eric Jorgenson |  |  | [ ] | [ ] |
+| Lead PI | Eric Jorgenson | ETSU | JORGENSONE@mail.etsu.edu | [ ] | [ ] |
+| Software Architect (Co-I) | Trey Overton |  | overton@heatherstone.com | [ ] | [ ] |
+| Program Manager | Ian Overton |  | ian@heatherstone.com | [ ] | [ ] |
+| Lead Developer | Joel Achankeng |  |  | [ ] | [ ] |
 
 ## Related deliverables
 
