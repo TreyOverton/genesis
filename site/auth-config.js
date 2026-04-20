@@ -13,7 +13,7 @@
  *   4. Copy your config values below from Project Settings > General > Web app
  */
 window.TABULAKIT_AUTH = {
-  mode: "public",
+  mode: "allowlist",
 
   // Firebase config (required for "domain" and "allowlist" modes)
   firebase: {
@@ -28,6 +28,8 @@ window.TABULAKIT_AUTH = {
 
   // For "allowlist" mode: specific email addresses
   allowedEmails: [
-    // "user@example.com"
+    "overton@heatherstone.com",
+    "ian@heatherstone.com",
+    "JORGENSONE@mail.etsu.edu"
   ]
 };

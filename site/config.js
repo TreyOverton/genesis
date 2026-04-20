@@ -6,16 +6,16 @@
  */
 window.TABULAKIT_CONFIG = {
   // Site identity
-  name: "TabulaKit",
-  description: "A TabulaKit documentation site",
+  name: "Genesis",
+  description: "Preparing a grant proposal as part of the DOE's Genesis Mission",
   logo: "",  // Path to logo image (optional, shown in sidebar)
 
   // Theme colors (CSS custom property overrides)
   theme: {
-    color: "#e84118",           // Primary accent color (headings)
-    tealColor: "#3bc0cb",       // Secondary accent (links, nav highlights)
+    color: "#64748b",           // Primary accent color (headings)
+    tealColor: "#94a3b8",       // Secondary accent (links, nav highlights)
     sidebarWidth: "280px",
-    baseFontSize: "16px"
+    baseFontSize: "20px"
   },
 
   // Docsify options (merged into window.$docsify)
