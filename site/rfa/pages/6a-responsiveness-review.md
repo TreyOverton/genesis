@@ -1,0 +1,3 @@
+# VI.A Responsiveness Review
+
+Prior to a comprehensive merit evaluation, DOE will perform an initial compliance review in accordance with 10 C.F.R. § 605.10(b) to determine that (1) the applicant is eligible for the award; (2) the information required by the RFA has been submitted; (3) all mandatory requirements are satisfied; (4) the proposed project is responsive to the objectives of the RFA; and (5) the proposed project is not duplicative of programmatic work. Applications that fail to pass the initial review will not be forwarded for merit review and will be eliminated from further consideration.
