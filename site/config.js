@@ -15,7 +15,7 @@ window.TABULAKIT_CONFIG = {
     color: "#64748b",           // Primary accent color (headings)
     tealColor: "#94a3b8",       // Secondary accent (links, nav highlights)
     sidebarWidth: "280px",
-    baseFontSize: "20px"
+    baseFontSize: "16px"
   },
 
   // Docsify options (merged into window.$docsify)
