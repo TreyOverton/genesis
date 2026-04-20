@@ -30,6 +30,7 @@ window.TABULAKIT_AUTH = {
   allowedEmails: [
     "overton@heatherstone.com",
     "ian@heatherstone.com",
+    "joel@heatherstone.com",
     "JORGENSONE@mail.etsu.edu"
   ]
 };

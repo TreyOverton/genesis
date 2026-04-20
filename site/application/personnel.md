@@ -13,14 +13,26 @@ Attachments per person:
 
 > Biosketches and current & pending support must be attached to the Senior/Key Person Profile form — **not** as appendices to the Project Narrative.
 
-## People
+## Senior/Key Personnel
 
-| Role | Name | Institution | Email | Biosketch | C&P |
-|------|------|-------------|-------|-----------|-----|
-| Lead PI | Eric Jorgenson | ETSU | JORGENSONE@mail.etsu.edu | [ ] | [ ] |
-| Software Architect (Co-I) | Trey Overton |  | overton@heatherstone.com | [ ] | [ ] |
-| Program Manager | Ian Overton |  | ian@heatherstone.com | [ ] | [ ] |
-| Lead Developer | Joel Achankeng |  |  | [ ] | [ ] |
+*Biosketch and Current & Pending Support required. Appears on DOE Title Page.*
+
+| DOE Project Role | Name | Institution | Email | Biosketch | C&P |
+|---|---|---|---|---|---|
+| PD/PI | Eric Jorgenson | ETSU | JORGENSONE@mail.etsu.edu | [ ] | [ ] |
+| Co-PD/PI — Software Architect | Trey Overton |  | overton@heatherstone.com | [ ] | [ ] |
+
+## Other Personnel
+
+*No biosketch or C&P required. Salary and effort still appear in the budget.*
+
+| Role | Name | Institution | Email |
+|---|---|---|---|
+| Project Manager | Ian Overton |  | ian@heatherstone.com |
+| Senior Software Engineer | Joel Achankeng |  | joel@heatherstone.com |
+| Lab Tech *(tentative)* | Erin *(last name TBD)* |  |  |
+
+> The Key-vs-Other split and Erin's details are tracked in [Open Questions](../open-questions.md) pending confirmation from Eric.
 
 ## Related deliverables
 

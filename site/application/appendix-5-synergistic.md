@@ -16,12 +16,12 @@ In addition to biographical sketches (which live on the Senior/Key Person Profil
 
 ## Entries
 
+*Only Senior/Key Personnel need biographical sketches, so only they have the option of synergistic activities. Ian, Joel, and (tentatively) Erin are Other Personnel and do not.*
+
 | Person | Activities drafted? |
 |--------|---------------------|
 | Eric Jorgenson | [ ] |
 | Trey Overton | [ ] |
-| Ian Overton | [ ] |
-| Joel Achankeng | [ ] |
 
 ## Content
 

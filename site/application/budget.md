@@ -17,7 +17,7 @@
 | Phase I award cap | $500,000 – $750,000 |
 | **Our target ask** | **above $500K floor, below $750K cap** — sized to pay all four team members for 9 months |
 | Period of performance | 9 months |
-| Team to fund | Eric Jorgenson (Lead PI), Trey Overton (Software Architect), Ian Overton (Program Manager), Joel Achankeng (Lead Developer) |
+| Team to fund | Eric Jorgenson (PD/PI), Trey Overton (Software Architect), Ian Overton (Project Manager), Joel Achankeng (Senior Software Engineer). Possibly + Erin (Lab Tech, TBD) — see [Open Questions](../open-questions.md). |
 
 ## Cost share
 

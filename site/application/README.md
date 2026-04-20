@@ -17,12 +17,16 @@ Drafting workspace for our Phase I submission under DOE RFA **DE-FOA-0003612** (
 
 ## Team
 
-- **Eric Jorgenson** — Lead PI
-- **Trey Overton** — Software Architect
-- **Ian Overton** — Program Manager
-- **Joel Achankeng** — Lead Developer
+**Senior/Key Personnel** *(biosketch + C&P required)*
+- **Eric Jorgenson** — PD/PI
+- **Trey Overton** — Software Architect (Co-PD/PI)
 
-Budget is built around paying all four for 9 months, landing above the $500K floor and below the $750K cap. See [Budget & Justification](budget.md).
+**Other Personnel** *(no biosketch; still in budget)*
+- **Ian Overton** — Project Manager
+- **Joel Achankeng** — Senior Software Engineer
+- **Erin** *(last name TBD)* — Lab Tech *(tentative — [pending confirmation](../open-questions.md))*
+
+Budget is sized to pay the core four for 9 months, landing above the $500K floor and below the $750K cap; Erin would be added if confirmed. See [Budget & Justification](budget.md) and [Senior/Key Personnel](personnel.md).
 
 ## Phase I component overview
 
