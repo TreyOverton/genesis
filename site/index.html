@@ -125,37 +125,6 @@
                   }
                 });
               });
-            },
-            function(hook) {
-              // Collapsible sidebar sections — any <li> with a nested <ul> becomes collapsible
-              hook.doneEach(function() {
-                var items = document.querySelectorAll('.sidebar-nav li');
-                items.forEach(function(li) {
-                  var ul = li.querySelector(':scope > ul');
-                  if (!ul) return;
-                  if (li.dataset.collapseBound) {
-                    // Keep expanded if a child is active
-                    if (li.querySelector(':scope > ul .active')) {
-                      li.classList.remove('collapsed');
-                    }
-                    return;
-                  }
-                  li.dataset.collapseBound = '1';
-                  li.classList.add('collapsible');
-                  // Default closed, unless a child is the active page
-                  if (!li.querySelector(':scope > ul .active')) {
-                    li.classList.add('collapsed');
-                  }
-                  var label = li.querySelector(':scope > p > strong, :scope > strong, :scope > p, :scope > a');
-                  if (label) {
-                    label.addEventListener('click', function(e) {
-                      if (label.tagName === 'A') return; // don't intercept link clicks
-                      e.stopPropagation();
-                      li.classList.toggle('collapsed');
-                    });
-                  }
-                });
-              });
             }
           ]
         };

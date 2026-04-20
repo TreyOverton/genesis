@@ -1,4 +1,6 @@
-# III.A Purpose
+# III. Program Description
+
+## A. Purpose
 
 The DOE Office of Science (SC), Office of Critical Minerals and Energy Innovation (CMEI), Office of Environmental Management (EM), Office of Nuclear Energy (NE), Office of Electricity (OE), and Hydrocarbons and Geothermal Office (HGEO) hereby announce interest in receiving applications from interdisciplinary teams addressing the Genesis Mission National Science and Technology Challenges to accelerate scientific discovery and R&D workflows using novel AI models and frameworks. By achieving AI advantage, these teams will advance the DOE's mission and ensure America’s security and prosperity by addressing energy, environmental, and nuclear challenges through science and technology. Teams are encouraged to leverage the extensive scientific and data resources of the DOE, the National Laboratories, U.S. industry, and academia. Any resulting AI models, workflows, and data, will be integrated into the larger Genesis Mission capabilities. 
 
@@ -46,7 +48,7 @@ Note on funding or co-funding opportunities from the Office of Science-Advanced 
 
 CHALLENGE AREAS FOR APPLICATION FORMATION 
 
-## 1 - Reenvisioning Advanced Manufacturing and Industrial Productivity
+### 1 - Reenvisioning Advanced Manufacturing and Industrial Productivity
 
 Participating Offices: Office of Science-Basic Energy Sciences (SC-BES); Office of Critical Minerals and Energy Innovation (CMEI)-Industrial Technologies Office (CMEI-ITO); CMEI-Advanced Materials and Manufacturing Technologies Office (CMEI-AMMTO); CMEI- Alternative Fuels and Feedstocks Office (CMEI-AFFO); SC-Fusion Energy Sciences (SC-FES); SC-Advanced Scientific Computing Research (SC-ASCR) 
 
@@ -76,7 +78,7 @@ E. AI-Enabled Smart Manufacturing (AMMTO) PHASE II APPLICATIONS WILL NOT BE ACCE
 
 F. Energy Material Manufacturing (AFFO) PHASE II APPLICATIONS WILL NOT BE ACCEPTED IN THIS FOCUS AREA. Leveraging AI-enabled digital twins to optimize advanced synthesis and roll-to- roll processes ubiquitous in the production of energy materials and solid electrolyte-based electrochemical devices with complex properties and geometries, e.g., fuel cells. These digital twins will integrate multi-physics models, real-time sensor fusion, and metrology data to achieve comprehensive monitoring, predictive analysis, and closed-loop control in complex, high-dimensional manufacturing environments. The goal is to accelerate the end-to-end digital transformation of these processes, addressing challenges like data latency and incompleteness, ultimately driving high-volume manufacturing, commercialization, and significant cost reduction for advanced energy material and device production. Work efforts should include hardware and software/algorithm development and demonstration as necessary toward the technical objective of the application. Applications are expected to be primarily DOE/NNSA National Laboratory led and executed. 
 
-## 2 - Scaling the Biotechnology Revolution
+### 2 - Scaling the Biotechnology Revolution
 
 Participating Offices: Office of Science-Biological and Environmental Research (SC- BER); Office of Critical Minerals and Energy Innovation-Alternative Fuels and Feedstocks Office (CMEI-AFFO); SC-Advanced Scientific Computing Research (SC-ASCR) 
 
@@ -104,7 +106,7 @@ D. Bio Design (BER) Utilize advances in fundamental predictive principles to des
 
 E. AI-Enabled Biological Reaction Engineering, Bioreactor Design, Process Scale-up and Integration (AFFO) PHASE II APPLICATIONS WILL NOT BE ACCEPTED IN THIS FOCUS AREA. Develop AI/digital twin models to streamline R&D, predict and address the challenges and complexities involved in the biological system, bioreactor design, and process scale-up and integration to enable cost-effective production of biofuels, biochemicals, and bioproducts. Technology areas for AI models include but are not limited to: algal and/or bacterial strain development for enhanced traits, productivity, and/or novel capabilities; building microbial communities to targeted specifications; closed-loop autonomous biosystem design; precise prediction, control, and performance optimization of bioreactors and cultivation systems that enhances mass/heat transfer, mixing, cell viability, and product yield; addressing cost and reliability challenges in biological process scale-up and integration; upgrading of biochemically formed molecules into high quality high value final products via thermo-catalytic process. Applications should consider integrating experimental data and information at laboratory, pilot, and/or industry relevant scales. Applications should create and assemble data repository for AI model development, evaluate and establish necessary digital model framework for baselining and validation with their own data. Applications should develop metrics to demonstrate the proof-of-concept of the proposed AI-driven approaches and quantify the acceleration of biotechnology and biomanufacturing. The examples of metrics include but are not limited to: prediction accuracy, real-time autonomous control decision, process stability and robustness, product yield, cell viability and stability, batch-to-batch variability, process/reactor downtime, resource efficiency, data quality and integrity, model adaptability to new condition/products, computational cost to train and run the AI models, cost savings, accelerated design and scale-up, time-to-market reduction, etc. 
 
-## 3 – Securing America’s Critical Minerals Supply
+### 3 – Securing America’s Critical Minerals Supply
 
 Participating Offices: Office of Critical Minerals and Energy Innovation (CMEI)- Analysis and Strategy Office (ASO); CMEI-Advanced Materials and Manufacturing Technologies Office (CMEI-AMMTO); CMEI-Advanced Mining and Minerals Production Technologies Office (CMEI-AMMPTO); SC-Basic Energy Sciences (SC-BES); SC-Biological and Environmental Research (SC-BER); SC-Advanced Scientific Computing Research (SC- ASCR) 
 
@@ -134,7 +136,7 @@ F. Connections for Isolation (BES) Utilize AI models to identify chemical driver
 
 G. Biological Pathways to CMM (BER) Employ AI-guided discovery of microbes, proteins, peptides, and pathways within a biological system or as a component of a biohybrid approach to significantly improve the efficiency of CMM recovery, separations, and refinement for industrial use. Use AI to decode the molecular-level rules of how microbes interact with minerals to enhance CMM extraction. The unique properties of biological molecules and organisms may present novel opportunities to recover CMMs from dilute substrates. Applications should focus on ways to leverage AI to understand the molecular-level rules of microbe-mineral- plant interactions, including the analysis of experimental and computational data to delineate the fundamental molecular mechanisms of mineral interaction, uptake, translocation, and biological sequestration. Also of interest are AI tools to design and engineer enhanced plant and microbial bio-recovery systems via engineering of novel proteins, peptides, or metabolic pathways to improve CMM selectivity, recovery rates, and tolerance to harsh industrial conditions. This might include ways to engineer CMM affinity from molecules to organism in plants and across the microbial phylogenetic spectrum. 
 
-## 4 - Delivering Nuclear Energy that is Faster, Safer, Cheaper
+### 4 - Delivering Nuclear Energy that is Faster, Safer, Cheaper
 
 Participating Offices: Office of Nuclear Energy (NE); Office of Science-Advanced Scientific Computing Research (SC-ASCR) 
 
@@ -182,7 +184,7 @@ Cost Share and additional Program Requirements: • R&D: Projects focusing on re
 
 the proposed technology. This team member must be located in the United States and could include, but is not limited to: o Nuclear Reactor Vendors and Suppliers: Companies involved in the design, construction, and operation of nuclear reactors. o Engineering, Procurement, and Construction (EPC) contractor: Responsible for building and delivering a full nuclear power plant. o Operators of Nuclear Power Plants or other Fuel Cycle Facilities: Entities managing existing nuclear facilities. o Federal Funding Research and Development Centers (FFRDCs): Especially those with a focus on nuclear energy research and development, collaborating with nuclear reactor vendors. o Utilities with Nuclear Assets: Investor-owned electric utilities or public power entities that operate nuclear power plants. o AI Companies specializing in Nuclear Applications: Firms developing AI solutions for nuclear safety, efficiency, or advanced reactor control systems, partnered with a nuclear energy provider. o Regional Transmission Organizations/Independent System Operators (RTOs/ISOs): Where the proposed technology directly impacts grid integration of nuclear energy. o Electric wire owning and/or operating entities: If the demonstration involves grid-scale integration of nuclear energy solutions. 
 
-## 5 - Accelerating Delivery of Fusion Energy
+### 5 - Accelerating Delivery of Fusion Energy
 
 Participating Offices: Office of Science-Fusion Energy Sciences (SC-FES); SC- Advanced Scientific Computing Research (SC-ASCR); Office of Nuclear Energy (NE) 
 
@@ -214,7 +216,7 @@ in public and private sectors to advance balance-of-plant technologies such as p
 
 G. Plasma Science and Technology (FES) This area is interested in AI and machine learning techniques to enhance control, analyze large datasets, automate detection and prediction, and accelerate experimental throughput and discovery in plasma science and technology. (i) Apply AI and ML methods to magnetic reconnection (multiple X-line kinetic reconnection) process which occurs in most of the space (solar and magnetospheric) and laboratory magnetic fusion plasmas. Automate detection, classification, and analysis of complex, transient plasma regions and structures in three dimensions such as plasmoids within large-scale simulation, laboratory, and observational data to identify magnetic reconnection events in real-time, improve efficiency, the understanding of the reconnection rate and how magnetic energy converts to particle energy, and the ability to predict future events. (ii) Apply AI and ML methods to create autonomous, optimized industrial plasma-based systems that revolutionize applications across advanced manufacturing, healthcare, and agriculture. Efforts will develop a predictive, mechanistic understanding of complex physical processes such as plasma-mediated chemistry, plasma-surface interactions, plasma-assisted processes, and plasma-soft matter interactions. These AI-driven insights will be used to design and control novel plasma synthesis techniques with high precision and repeatability. The overall end goal is to drastically increase the industrial impact of these technologies, lower their complexity, and break down existing barriers to broader adoption. (iii) Apply AI and ML at LaserNetUS facilities by enabling real-time optimization and autonomous control of complex laser systems to accelerate experimental throughput and discovery in areas of high-energy-density physics. 
 
-## 6 - Transforming Nuclear Restoration and Revitalization
+### 6 - Transforming Nuclear Restoration and Revitalization
 
 Participating Offices: Office of Environmental Management (EM); SC-Advanced Scientific Computing Research (SC-ASCR) 
 
@@ -236,7 +238,7 @@ Develop a multimodal AI model using EM operational data, accelerated simulation 
 
 C. Treatment Process Optimization (EM-3.2, ASCR) INDUSTRY COST SHARE: Required (Up to 50 percent cost share with industry partners, including in kind, depending on specific scope of work the partner will perform) Implement AI-driven optimization of waste treatment facility throughputs to achieve completion milestones at EM sites such as SRS and Hanford. This focus area aims at optimization and/or real-time operation of dynamic process controls (e.g., for tank waste treatment flowsheets, groundwater remedial systems, informing conditions for decontamination and decommissioning, and nuclear material separation or isotope recovery). Optimization and adaptive control of dynamic process systems – particularly when limited, sparse, and heterogeneous training data are available – are vital to ensuring safe, efficient, and resilient operations, especially for real-time decision-making or support. This includes the use of AI-driven surrogate models, reinforcement learning, and hybrid physics-data frameworks, and the development of digital twins that assimilate sensor data from specific sites for scenario testing, early warning, and optimizing remediation processes, waste disposition, and facility operations under uncertainty. 
 
-## 7 - Discovering Quantum Algorithms with AI
+### 7 - Discovering Quantum Algorithms with AI
 
 Participating Offices: Office of Science-Advanced Scientific Computing Research (SC- ASCR); SC-Basic Energy Sciences (SC-BES); SC-High Energy Physics (SC-HEP); SC-Nuclear Physics (SC-NP); SC-Fusion Energy Sciences (SC-FES) 
 
@@ -264,7 +266,7 @@ E. Quantum Advantage for Nuclear and Hadronic Systems (NP, HEP) Use AI to determ
 
 using quantum algorithms that demand AI to tackle the challenges of chiral symmetry breaking, confinement, relativistic kinematics, and infinite degrees of freedom. 
 
-## 8 - Realizing Quantum Systems for Discovery
+### 8 - Realizing Quantum Systems for Discovery
 
 Participating Offices: Office of Science-Basic Energy Sciences (SC-BES); SC-High Energy Physics (SC-HEP); SC-Advanced Scientific Computing Research (SC-ASCR); SC- Nuclear Physics (SC-NP) 
 
@@ -288,7 +290,7 @@ C. AI for Quantum Imaging and Sensing (HEP, NP) Integrate AI into multi-qubit qu
 
 D. AI for Quantum Computing and Networking (ASCR) Leverage AI to mitigate decoherence in qubits, develop and implement effective quantum error correction codes, control quantum processing units, and ensure the scalability of quantum processors and network systems. 
 
-## 9 - Recentering Microelectronics in America
+### 9 - Recentering Microelectronics in America
 
 Participating Offices: Office of Science-Basic Energy Sciences (SC-BES); SC- Advanced Scientific Computing Research (SC-ASCR); Office of Critical Minerals and Energy Innovation-Advanced Materials and Manufacturing Technologies (CMEI-AMMTO); SC-High Energy Physics (SC-HEP); SC-Fusion Energy Sciences (SC-FES) 
 
@@ -326,7 +328,7 @@ I. Low-temperature Electronics for Sensors and Computation (ASCR, HEP) Low-tempe
 
 J. Transform Neuromorphic Computing Connectivity, Communication, and System Hardware Integration (ASCR) Significant connectivity and communication challenges exist in tackling practical integration of neuromorphic computing hardware at scale and with instrumentation for scientific computing. Multi-scale connectivity, relevant circuit motifs from connectome data and efficient encoding schemes should be leveraged and appropriately translated to neuromorphic circuits. Advances in this critical domain will enable the design of high- bandwidth and massively parallel connectivity across emerging neuromorphic processing units. 
 
-## 10 - Securing U.S. Leadership in Data Centers
+### 10 - Securing U.S. Leadership in Data Centers
 
 Participating Offices: Office of Critical Minerals and Energy Innovation-Industrial Technologies Office (CMEI-ITO); Office of Electricity (OE); Office of Science-Advanced Scientific Computing Research (SC-ASCR) 
 
@@ -342,7 +344,7 @@ Focus Areas for FY26 and 27 A. Data Center Load Flexibility (ITO) PHASE II APPLI
 
 B. Data Center Thermal Management (ITO) PHASE II APPLICATIONS WILL NOT BE ACCEPTED IN THIS FOCUS AREA. Apply AI-based tools and approaches to advance the state-of-the-art in data center thermal management technologies at the chip-, rack-, and facility-level that reliably enable peak performance and efficient operation for current AI and computing chipsets and future higher-powered chipsets. The proposed approaches should demonstrate improvements in cooling efficiency in data centers and/or show promise of reductions in data center power and direct and indirect water use. 
 
-## 11 - Achieving AI-Driven Autonomous Laboratories
+### 11 - Achieving AI-Driven Autonomous Laboratories
 
 Participating Offices: Office of Science-Basic Energy Science (SC-BES); SC- Advanced Scientific Computing Research (SC-ASCR); SC-Fusion Energy Sciences (SC-FES) 
 
@@ -366,7 +368,7 @@ D. AI-Enabled Diagnostics and Remote Handling (FES) Remote handling of irradiate
 
 E. Accelerate the design and prototyping of neuromorphic computing circuit primitives for robotic embodied physical artificial intelligence (ASCR) Revolutionizing neuromorphic computing requires understanding the computational components and principles, e.g., neurons, dendritic trees, and local plasticity, that underpin the brain’s functionality and robustness for performing autonomous tasks. These biological primitives must be translated into functionally equivalent circuits that could be implemented, validated, and embodied within autonomous robotic computing systems that can learn and adapt to perform tasks. Novel neuromorphic circuits based on current and emerging technologies guided by neuroscience-inspired functionality need to be engineered to realize high-performing computational systems. 
 
-## 12 - Designing Materials with Predictable Functionality
+### 12 - Designing Materials with Predictable Functionality
 
 Participating Offices: Office of Science-Basic Energy Science (BES); SC-Advanced Scientific Computing Research (SC-ASCR); SC-Fusion Energy Sciences (SC-FES); Office of Critical Minerals and Energy Innovation-Advanced Materials and Manufacturing Technologies Office (CMEI-AMMTO); CMEI-Industrial Technologies Office (CMEI-ITO); CMEI- Alternative Fuels and Feedstocks Office (CMEI-AFFO) 
 
@@ -396,7 +398,7 @@ prototyping and characterization paired with AI-enabled prediction to compress t
 
 G. Electrochemical Energy Conversion Catalyst Discovery and Scale up (AFFO) PHASE II APPLICATIONS WILL NOT BE ACCEPTED IN THIS FOCUS AREA. This topic solicits projects using AI to accelerate the search for platinum group metal (PGM) free oxygen reduction catalysts for electrochemical energy conversion devices. The current state of the art materials require multi-step synthesis routes often based on the pyrolysis of metal organic framework materials typically followed by metal substitution(s) to yield atomically dispersed metal sites in carbon frameworks. These synthesis routes are intricate, time-consuming, and difficult to control -often yielding differing electrochemical performance despite ‘identical’ syntheses and making material performance prediction difficult prior to synthesis and testing and manufacturing/scale-up high-risk. This topic seeks applications focused on materials performance prediction and AI-guided materials synthesis to both improve repeatability for existing catalysts and to develop new, higher performance PGM-free oxygen reduction catalysts. Applications are expected to be primarily lab led with IHE participation. 
 
-## 13 - Enhancing Particle Accelerators for Discovery
+### 13 - Enhancing Particle Accelerators for Discovery
 
 Participating Offices: Office of Science-High Energy Physics (SC-HEP); SC-Basic Energy Sciences (SC-BES); SC-Nuclear Physics (SC-NP); SC-Fusion Energy Sciences (SC- FES); SC-Advanced Scientific Computing Research (SC-ASCR) 
 
@@ -414,7 +416,7 @@ A. AI-driven Accelerator Facilities (BES, HEP, NP) Enable and deploy AI systems 
 
 B. Integration of Digital Twins for Fusion Systems and Actuators (FES) Establish real-time control of nuclear fusion systems and facilities, leveraging the massive concurrency of experimental data and high-fidelity simulation results to monitor stability and provide feedback control for critical fusion technology for tokamaks, stellarators, and inertial fusion devices 
 
-## 14 - Unifying Physics from Quarks to the Cosmos
+### 14 - Unifying Physics from Quarks to the Cosmos
 
 Participating Offices: Office of Science-High Energy Physics (SC-HEP); SC-Nuclear Physics (SC-NP); SC-Advanced Scientific Computing Research (SC-ASCR) 
 
@@ -438,7 +440,7 @@ C. Expedited Discovery from High Complexity and Petabyte-Scale Datasets (HEP, NP
 
 proposed or current projects and can be implemented in the next three to five years, is also of interest. 
 
-## 15 - Predicting U.S. Water for Energy
+### 15 - Predicting U.S. Water for Energy
 
 Participating Offices: Office of Science-Biological and Environmental Research (SC- BER); SC-Advanced Scientific Computing Research (SC-ASCR); Critical Minerals and Energy Innovation – Integrated Energy Systems Office (CMEI - IESO) 
 
@@ -458,7 +460,7 @@ B. Water and Energy (BER) The predictive understanding of surface and groundwate
 
 C. Weeks to Years Prediction (BER) Leverage the power of generative and explainable AI to accelerate, refine, and analyze the DOE Energy Exascale Earth System Model (E3SM) and complementary data-driven and hybrid AI models to provide skillful regional predictions of water at the seasonal to multi-year time scales needed to inform energy system planning and operations. Topics of interest include development of AI-driven techniques for coupled model initialization, development of hybrid AI-physical models to improve process components of coupled models or nonlinear natural modes of variability and associated teleconnections that impact precipitation, coupling of E3SM and foundation models, and AI emulators and downscaling techniques to produce hyperlocal information for domestic energy providers. 
 
-## 16 - Scaling the Grid to Power the American Economy
+### 16 - Scaling the Grid to Power the American Economy
 
 Participating Offices: Office of Electricity (OE); Office of Critical Minerals and Energy Innovation (CMEI); Office of Science-Biological and Environmental Research (SC- BER); SC-Advanced Scientific Computing Research (SC-ASCR) 
 
@@ -492,7 +494,7 @@ ADDITIONAL PARTNERSHIP REQUIREMENTS: Submissions to this focus area must include
 
 C. Uncertainty Quantification (SC-BER, SC-ASCR, OE, CMEI-IESO) Submissions to this focus area will investigate the sources of uncertainty in grid planning and operational models, including multi-sector inputs, and seek to understand how AI can expand or reduce those uncertainties. Examples include (a) external forcings on the power grid and feedback loops in multi-sector energy models and (b) the impact of differential privacy to protect data in federated learning models on outcome uncertainty. 
 
-## 17- Unleashing Subsurface Strategic Energy Assets
+### 17- Unleashing Subsurface Strategic Energy Assets
 
 Participating Offices: Office of Hydrocarbons and Geothermal Energy (HGEO); Office of Science-Biological and Environmental Research (SC-BER); SC-Advanced Scientific Computing Research (SC-ASCR); SC-Basic Energy Sciences (SC-BES) 
 
@@ -518,7 +520,7 @@ Use multivariate and multiscale data, high-performance computing, and machine le
 
 In addition to the Genesis Mission Science and Technology Challenges of National Importance provided above, applications addressing one of the focus areas in the following topics will be considered. 
 
-## 18 - HPC Code Curation, Translation, and Development for Accelerated Scientific Discoveries
+### 18 - HPC Code Curation, Translation, and Development for Accelerated Scientific Discoveries
 
 Participating Offices: Office of Science-Advanced Scientific Computing Research (SC- ASCR), Office of Critical Minerals and Energy Innovation-Advanced Materials and Manufacturing Technologies (CMEI-AMMTO) 
 
@@ -550,7 +552,7 @@ Integrate diverse data types, including open DOE application codebases, historic
 
 G. Partnerships for HPC AI Advancement (ASCR, AMMTO) Partnerships should enhance HPC coding for manufacturing and materials engineering by doing some or all of the following: 1. Automating code generation (from mathematical problem formulation to direct coding), code optimization, software testing, automated test suites, and workflow orchestration. 2. Enhancing both parallel and portable code across heterogenous architectures and generalizable simulations and analysis. 3. Accelerating the development of high-fidelity models for digital twins, discovery, and predictive modeling. 4. Accelerating control system modeling to ensure prescriptive analytics 5. Converting existing well-tested codes to modern CUDA/HIP or other trustworthy AI for verification, validation, and uncertainty quantification 6. Reducing hallucinations in parallel code. 7. Providing an industry use case in manufacturing that shows a measurable boost in productivity, in problem formulation and in coding. 8. Fostering foundation model collaborations with industry partners, manufacturing end-users, and academic institutions. 9. Leveraging expertise in accelerators, compilers and AI research, in Ellora and Durban DOE ASCR projects and in Neuro-Symbolic Agents for Code Development for development of applied mathematics and industry platforms. Applications are sought that detail how performance improvement and other claims are to be generalized, validated, and scaled. 
 
-## 19 – AI for Scientific Reasoning
+### 19 – AI for Scientific Reasoning
 
 Participating Offices: Advanced Scientific Computing Research (SC-ASCR) 
 
@@ -572,7 +574,7 @@ B. Hypothesis Generation from Multi-Modal Data (ASCR) Build AI systems capable o
 
 C. Composable and Modular Foundation Models (ASCR) Focus on developing strong base LLMs designed for flexible integration with other specialized foundation models and/or tools (e.g., for genomics, materials science, or grid modeling) to enable complex, cross-domain reasoning. 
 
-## 20 – Cybersecurity for AI-driven Science Workflows
+### 20 – Cybersecurity for AI-driven Science Workflows
 
 Participating Offices: Advanced Scientific Computing Research (SC-ASCR) 
 
@@ -592,7 +594,7 @@ B. Data Provenance and Integrity Verification (ASCR) Create and implement scalab
 
 C. Real-Time Attack Detection and Mitigation for AI Models (ASCR) Design and demonstrate AI-based systems that monitor science-dedicated models during training or inference. These systems must be capable of detecting that a model is under attack and deploying real-time mitigation strategies to limit the impact and preserve the integrity of the scientific workflow. The tools or techniques must be capable of, but not limited to, detecting attacks with the adversarial intent to degrade accuracy of model results, insert a backdoor, or cause model results to support incorrect scientific conclusions. 
 
-## 21 - Artificial Intelligence in Fluid Flow for Energy Components and Technologies
+### 21 - Artificial Intelligence in Fluid Flow for Energy Components and Technologies
 
 Participating Offices: Advanced Scientific Computing Research (SC-ASCR), Critical Minerals and Energy Innovation – Integrated Energy Systems Office (CMEI-IESO), SC-BER, SC-FES 
 
@@ -620,15 +622,15 @@ C. Data-Driven Operational Intelligence and System Resilience (IESO) PHASE II AP
 
 OTHER PROGRAMMATIC GUIDANCE 
 
-## Annual Meetings
+### Annual Meetings
 
 The selected awardees will be expected to attend up to two annual Genesis Mission meetings and participate in coordination activities with other projects. Applicants should anticipate a need for travel to effectively communicate with other researchers and request appropriate funding in their budgets. 
 
-## Annual Progress Reports
+### Annual Progress Reports
 
 The lead institution for Phase II projects is responsible for submitting an integrated annual progress report on behalf of the multi-institutional team. 
 
-## Teaming Arrangements
+### Teaming Arrangements
 
 Phase I: Small teams attack a particular challenge focus area or part of a focus area. All teams in Phase I must include institutions from at least two of the following categories: (1) DOE/NNSA National Laboratory7, (2) Industry, and (3) IHE/Non-profit/Other. 
 
@@ -642,7 +644,7 @@ Prohibition on anti-competitive behaviors: Teaming partnerships are required to 
 
 This RFA uses two different mechanisms to support teams of multiple institutions. 
 
-### Collaborative Applications
+#### Collaborative Applications
 
 Teams of multiple institutions may submit collaborative applications. Each submitted application in such a team must indicate that it is part of a collaborative project/group. Every partner institution must submit an application through its own sponsored research office. Each multi-institutional team can have only one lead institution. Each application within the multi- institutional team, including the narrative, starting with the title page, and all required appendices and attachments, must be identical with the following exceptions: • Each application must contain a correct Standard Form (SF)-424 Research and Related (R&R) cover page for the submitting institution only. 
 
@@ -658,11 +660,11 @@ While permitted, multi-institutional teams are discouraged from submitting one a
 
 Note that this discouragement from proposing subrecipients should not be interpreted to discourage budgeting for contractors as defined in 2 C.F.R. § 200.331. 
 
-## Joint Consideration
+### Joint Consideration
 
 Applications submitted to this RFA will be considered for award by the DOE elements listed on the cover page. All elements will coordinate their award selections to avoid overlap and duplication. If an application is recommended for funding by SC, all administrative provisions of this RFA will apply. If an application is recommended for funding by an organization outside SC, applicants are cautioned to strictly follow that organization’s instructions regarding the transfer of the application and potential award administration. 
 
-## Open Science
+### Open Science
 
 9 Subawards are made to subrecipients. Both terms are defined in 2 C.F.R. § 200.1 (https://www.ecfr.gov) 
 
@@ -674,4 +676,70 @@ All entities submitting applications to this RFA must recognize the moral and le
 
 International activities related to special nuclear materials (SNM) are subject to additional requirements. Please see 10 C.F.R. § 810 (2025) for further information. 
 
-All work proposed under this RFA must be for research of which results may be published in scholarly literature. Do not submit applications containing restricted data or unclassified controlled nuclear information as defined in the Atomic Energy Act of 1954, as amended, 42 U.S.C. § 2011, et seq., 10 C.F.R. § 1017 (2024), 10 C.F.R. § 1045 (2024).
+All work proposed under this RFA must be for research of which results may be published in scholarly literature. Do not submit applications containing restricted data or unclassified controlled nuclear information as defined in the Atomic Energy Act of 1954, as amended, 42 U.S.C. § 2011, et seq., 10 C.F.R. § 1017 (2024), 10 C.F.R. § 1045 (2024). 
+
+## B. Program Goals, Objectives, and Priorities
+
+The Office of Science’s (SC) mission is to deliver scientific discoveries and major scientific tools to transform our understanding of nature and advance the energy, economic, and national security of the United States. SC is the Nation’s largest Federal sponsor of basic research in the physical sciences and the lead Federal agency supporting fundamental scientific research for our Nation’s energy future. 
+
+SC accomplishes its mission and advances national goals by supporting: • The frontiers of science—exploring nature’s mysteries from the study of fundamental subatomic particles, atoms, and molecules that are the building blocks of the materials of our universe and everything in it to the DNA, proteins, and cells that are the building blocks of life. Each of the programs in SC supports research probing the most fundamental disciplinary questions. • The 21st Century tools of science—providing the nation’s researchers with 28 state-of- the-art national scientific user facilities, the most advanced tools of modern science, propelling the U.S. to the forefront of science, technology development, and deployment through innovation. • Science for energy and the environment―paving the knowledge foundation to spur discoveries and innovations for advancing the Department’s mission in energy and environment. SC supports a wide range of funding modalities from single principal investigators to large team-based activities to engage in fundamental research on energy production, conversion, storage, transmission, and use, and on our understanding of the earth systems. 
+
+SC is an established leader of the U.S. scientific discovery and innovation enterprise. Over the decades, SC investments and accomplishments in basic research and enabling research capabilities have provided the foundations for new technologies, businesses, and industries, making significant contributions to our nation’s economy, national security, and quality of life 
+
+The Office of Electricity (OE) leads the U.S. Department of Energy’s R&D to strengthen and modernize our nation’s power grid to maintain a reliable, affordable and secure electricity delivery infrastructure. To ensure every American home and business has reliable access to affordable energy, OE works closely with industry and other stakeholders to drive technological and operational advancements to sustain U.S. global leadership in energy. OE drives innovation to strengthen, improve, and transform our electricity delivery system to reliably power homes, businesses, and communities. OE leverages its expertise in cutting-edge research, system-level analyses, and partnerships with stakeholders to develop advanced systems and technologies that meet today’s needs and are ready for tomorrow’s challenges. 
+
+The Office of Environmental Management’s (EM) mission is to complete the safe cleanup of the environmental legacy brought about from decades of nuclear weapons development and government-sponsored nuclear energy research. EM's priority is to ensure the safety and health of the public and EM’s workforce while continuing to protect the environment. The EM program is responsible for the cleanup of millions of gallons of radioactive waste; the safe management and disposition of thousands of tons of spent nuclear fuel and nuclear material; 
+
+disposition of large volumes of transuranic waste and mixed low-level waste; remediation of huge quantities of contaminated soil and groundwater; and deactivation and decommissioning of thousands of excess facilities. 
+
+The Hydrocarbons and Geothermal Energy Office (HGEO) is unleashing the full potential of America’s hydrocarbon and geothermal resources to provide affordable, reliable, and secure energy. Through applied innovation and U.S. energy leadership, HGEO develops and advances breakthrough technologies that lower costs and power American prosperity, freedom, and human flourishing. By leveraging America’s hydrocarbon and geothermal resources, HGEO works to enhance reliable baseload power, strengthen grid reliability, and improve long-term energy security for communities nationwide. 
+
+The Office of Nuclear Energy’s (NE) mission is to advance nuclear energy science and technology to meet U.S. energy, environmental, and economic needs. NE has identified four goals to address challenges in the nuclear energy sector, help realize the potential of advanced technology, and leverage the unique role of the government in spurring innovation: 1. Enable continued operation of existing U.S. nuclear reactors. 2. Enable deployment of advanced nuclear reactors. 3. Develop advanced nuclear fuel cycles. 4. Maintain U.S. leadership in nuclear energy technology. 
+
+The U.S. Department of Energy’s Office of Critical Minerals & Energy Innovation (CMEI) is advancing America's critical minerals supply chains and accelerating next-generation energy technologies to strengthen our nation’s energy security and power our future. CMEI's mission is to enable a long-overdue return to dominance for America’s mineral, mining, and extractive industries, to lead the world in the sciences and industries that underpin our national security and economic prosperity, to drive growth, efficiency, and innovation to new heights, to responsibly steward the resources entrusted to us by the American taxpayer, and to develop the systems and standards that directly support American industry. 
+
+## C. Award Contribution to Goals and Objectives
+
+Awards resulting from this RFA are intended to speed up science and transform energy through the use of AI. 
+
+## D. Performance Goals
+
+Phase I awards will be expected to show progress towards demonstrating AI advantage in your selected focus area through a go/no go evaluation at six months. Phase II awards will be expected to demonstrate progress towards AI advantage in your selected focus area(s) through periodic progress reports, meetings, and to-be-determined project milestones which may include a midterm review. 
+
+## E. Program Unallowable Costs
+
+Applications will be informed of cost principles and standards that comply with 2 C.F.R. § 930.210 after selection. 
+
+## F. Citations to Statute and Regulations
+
+The programmatic authorizing statutes and governing regulations are: U.S. Department of Energy Organization Act, codified as amended at 42 U.S.C. § 7256 (2020). Act of Jul. 4, 2025, Pub. L. No. 119-21, § 50404, 139 Stat. 72 (2025). Energy Independence and Security Act of 2007, Pub. L. No. 110-140, as amended, §§ 618, 1340A, codified at 42 U.S.C. §§ 17197, 17384a (2020). Energy Policy Act of 2005, Pub. L. No. 109-58, §§ 901, 911, 965, 119 Stat. 594 (2005). National Quantum Initiative Act, Pub. L. No. 115-368, § 401, 132 Stat. 5100, 5105 (2018). CHIPS and Science Act of 2022, Pub. L. No. 117-167, § 10731, 136 Stat. 1366 (2022). Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, codified at 2 C.F.R. § 200 (2024). U.S. Department of Energy Financial Assistance Regulations, codified at 2 C.F.R. § 910 (2022). U.S. Department of Energy, Office of Science Financial Assistance Program Rule, codified at 10 C.F.R. § 605 (2014). U.S. Department of Energy Other Transaction Agreements Rule, codified at 2 C.F.R. § 930 (2025). 
+
+## G. Program History
+
+You can learn about SC’s history at https://science.osti.gov/About/History. You can read about our achievements at https://science.osti.gov/Science-Features/Science-Highlights. You can find information about all of our awards at https://pamspublic.science.energy.gov/WebPAMSExternal/interface/awards/AwardSearchExtern al.aspx. 
+
+You can learn about OE’s history at https://www.energy.gov/oe/our-history. 
+
+EM’s history can be found at https://www.energy.gov/em/about-office-environmental- management. 
+
+Please learn more about NE at Office of Nuclear Energy | Department of Energy. 
+
+HGEO is a new office, created in the latest DOE reorganization, which brings together the former Fossil Energy Office with the Geothermal Technologies Office. You can learn more about HGEO’s history at: https://www.energy.gov/hgeo/our-history 
+
+CMEI is a new office, also created in the latest DOE reorganization, please learn more about CMEI at Office of Critical Minerals & Energy Innovation. 
+
+## H. Other Information
+
+### Anticipated Award Size
+
+The award size will depend on the number of meritorious applications and the availability of appropriated funds. 
+
+### Period of Performance
+
+DOE anticipates making Phase I awards with a project period of approximately nine months and Phase II awards with a project period of three years. 
+
+### Award Budget Periods
+
+Applicants for Phase I awards should prepare budgets with a single period that starts on July 1, 2026, and ends on March 31, 2027. 
+
+Applicants for Phase II awards should use 12-month budget periods. When preparing the budget request, assume a start date of September 1, 2026.

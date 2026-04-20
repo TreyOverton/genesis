@@ -1,10 +1,70 @@
-# IV.C Component Pieces of the Application
+# IV. Application Contents and Format
 
-## Letters of Commitment
+## A. Preliminary Submissions
+
+### 1. Letter of Intent (LOI)
+
+PHASE I AWARDS: 
+
+Not applicable for Phase I awards. 
+
+PHASE II AWARDS: 
+
+A LOI is strongly encouraged and should be submitted by the date indicated on the cover of this RFA for FY26 Phase II awards. If the LOI is not submitted by the deadline, DOE may hold any subsequent Phase II application until FY27. DOE may send a response before the Phase II application deadline. 
+
+Program Manager to select when submitting a LOI: Dawn Adin All questions about this RFA must be submitted to GenesisMissionNOFO@science.doe.gov. 
+
+If a multi-institutional team is submitting collaborative applications, only the lead institution should submit an LOI. 
+
+The LOI is to help in planning the review and the selection process for FY26 applications. 
+
+The LOI must begin with a title page that will not count toward the LOI page limitation. Include, at the top of the first page, the following information: 
+
+The project title: Principal Investigator (PI) Name, Job Title Lead Institution PI Phone Number, PI Email Address RFA Number: Include the RFA number printed on the cover of this RFA Application Stage: Phase II Anticipated Total Annual Budget ($Million): The primary challenge and focus area as identified in Section III of this RFA: [For example, 1-A Reenvisioning Advanced Manufacturing and Industrial Productivity | Agentic AI-Driven Chemical Manufacturing] [Optional]: One or more secondary challenge and focus areas identified in Section II of this RFA: [For example, 1-D: Reenvisioning Advanced Manufacturing and Industrial Productivity | Digitalization of Industrial Processes] 
+
+Include a list of all senior/key personnel at the applicant and team member institutions, whether or not the institution is proposed to receive DOE funds under the award. 
+
+Senior/Key Personnel for Lead Institution and All Partner Institutions Institution Name Senior/Key Personnel including the Director Institution 1 (Lead) PI A; PI B; PI C; … Institution 2 
+
+Institution # 
+
+The senior/key personnel, partner institutions, and focus area(s) will be compiled across all applications. For purposes of uniformity, an Excel template (Genesis Mission Phase II LOI Template) is provided through Grants.gov (“Related Documents” tab on the RFA page) and should be included as an “Additional Attachment” to your letter of intent in PAMS. 
+
+The material listed here defines the required content of a title page. Additional material is not allowed. 
+
+The title page must be followed by a clear and concise description of the objectives and technical approach of the proposed research. This description must include at least the following elements: • A statement of the goal of the proposed project; • A statement addressing how the project aligns with the primary and, if applicable, with the secondary focus areas and leads to an AI advantage; • A description of the research methods and approaches; • An explanation of how the proposed project distinguishes itself from other ongoing efforts; • An assessment of the potential impact of the proposed research and the need for an integrated, multi-disciplinary research team. 
+
+The description of the proposed research may not exceed three pages, when printed using standard letter-size (8.5-inch x 11-inch) paper with one-inch margins (top, bottom, left, and right). The body text font must not be smaller than 11 point. Figures and references, if included, must fit within the page limit. 
+
+In addition, the LOI must include a listing of senior/key personnel and a listing of individuals who should not serve as merit reviewers of a subsequent application due to an actual or perceived conflict of interest. Detailed instructions for how to craft the required listings are provided in Section IX of this RFA. Note that the listing of individuals who should not serve as merit reviewers is rarely empty because the instructions contain mandatory inclusions requirements. This listing will not count toward the LOI’s page limit. The list of individuals must be included as an “Additional Attachment” to your LOI in PAMS. For your convenience, a Collaborator Template is available at https://science.osti.gov/grants/Policy-and- Guidance/Agreement-Forms. 
+
+The LOI may include a list of suggested reviewers (including email address and organizational affiliation) who are well qualified to review the application. DOE is under no obligation to consider any suggested reviewers. If provided, this list should be on a separate 
+
+page titled, “List of Suggested Reviewers” and will not count towards the LOI page limit. 
+
+The LOI must be machine-readable. Do not submit a scanned image of a printed document. 
+
+LOI SUBMISSION 
+
+LOIs are created in the software system of your choice and must be submitted electronically through the DOE SC Portfolio Analysis and Management System (PAMS) website https://pamspublic.science.energy.gov/. You cannot draft or edit a LOI in PAMS. Do not submit a LOI through FedConnect or Grants.gov. 
+
+LOIs may be submitted by a PI or by other users at the PI’s institution with the “Submit to DOE” privilege in PAMS. 
+
+Applicants are strongly encouraged to inform GenesisMissionNOFO@science.doe.gov if teaming arrangements, proposed personnel, topics, or the anticipated title change between submitting the LOI and when an application is submitted, to ensure that the application is properly linked to their LOI and that reviewers are properly assigned to the application. 
+
+Detailed instructions about how to submit an LOI are in Section IX of this RFA. 
+
+## B. Application
+
+The instructions below apply to Phase I and Phase II applications. Applications in response to this RFA must be submitted through Grants.gov. Detailed instructions for registering in and using Grants.gov are in Section IX of this RFA. 
+
+## C. Component Pieces of the Application
+
+### Letters of Commitment
 
 Letters of commitment from each institution participating as a team member must be appended to your Project Narrative and are not considered part of the Project Narrative’s page limit. Each institutional letter of commitment is limited to one page and must be current, signed, and dated by a person authorized to commit the participating institution to a legally binding agreement for this project. Please ensure that letters of commitment only describe the nature of the institution’s involvement. Letters of recommendation are not allowed in applications under this RFA. Letters of commitment should be placed in Appendix 7 (Other Attachments). 
 
-## Letters of Collaboration or Access
+### Letters of Collaboration or Access
 
 Letters from collaborators or from institutions providing access to data, models, software, equipment and/or facilities may be appended to your Project Narrative and are not considered part of the Project Narrative’s page limit. Please ensure that letters from collaborators or from institutions providing access to data, models, software, equipment and/or facilities only describe 
 
@@ -24,31 +84,31 @@ Sincerely,
 
 <Collaborator’s Name and Signature Block> 
 
-## Scientific User Facilities
+### Scientific User Facilities
 
 Documentation from any SC scientific user facility (https://science.osti.gov/User- Facilities) may be provided with other letters of collaboration or access in Appendix 7. 
 
 If the proposed research includes activities at the DIII-D National Fusion Facility, a U.S. DOE Office of Science user facility, then a Record of Discussion from the facility must be included in the submission. The Record of Discussion documents potential resources required by the facility to support the proposed research scope. Information on the Record of Discussion process at DIII-D is available at https://d3dfusion.org/become-a-user/ under the “Records of Discussion” header. A Record of Discussion form is available for download from that site. 
 
-## 1. SF-424 (R&R)
+### 1. SF-424 (R&R)
 
 Complete this form first to populate data in other forms. Complete all the required fields in accordance with the pop-up instructions on the form. The list of certifications and assurances referenced in Field 17 is available on the DOE Financial Assistance Forms Page at https://energy.gov/management/office-management/operational-management/financial- assistance/financial-assistance-forms under Certifications and Assurances10. Applicants are bound by their representations and certifications in SAM.gov. 
 
-### Type of Submission (Field 1)
+#### Type of Submission (Field 1)
 
 10 No separate form or submission is required for the Certifications and Assurances. 
 
 Select the checkbox for “Application” for an initial submission. Select the checkbox for “Changed/Corrected Application” if submitting an updated version of an application. Do not submit pre-applications via Grants.gov: Do not select the checkbox for “Pre-application.” 
 
-### Identifying numbers (Field 4)
+#### Identifying numbers (Field 4)
 
 For renewals and supplemental funding, enter the DOE award number in Field 4a. Do not enter any other number in Field 4a. Do not enter anything in Field 4b. If submitting an updated version of an application, you may enter the previous Grants.gov Tracking ID in Field 4c, though this is not required. 
 
-### UEI and EIN Numbers (Fields 5 and 6)
+#### UEI and EIN Numbers (Fields 5 and 6)
 
 The Uniform Entity Identifier (UEI) and Employer Identification Number (EIN) fields on the SF-424 (R&R) form are used in PAMS to confirm the identity of the individual or organization submitting an application. • Enter the UEI as a 12-digit alpha-numerical sequence. • Enter the EIN as a nine-digit number. • Do not use hyphens or dashes. • DOE does not use the 12-digit EIN format required by some other agencies. • Applications will not be rejected if an applicant’s system-to-system service uses a 12-digit EIN format or inserts hyphens or dashes in an EIN. 
 
-### Type of Application (Field 8)
+#### Type of Application (Field 8)
 
 A new application is one in which DOE support for the proposed research is being requested for the first time. A renewal application requests additional funding for a period of time following a current award. If the application requests a significant change in the scope of work, please consult with the Program contact identified in this RFA to determine if the application should be considered new or a renewal. 
 
@@ -60,7 +120,7 @@ Please answer “yes” to the question “Is this application being submitted t
 
 DOE will accept new, renewal, and supplemental applications under this RFA. 
 
-## 2. Research and Related Other Project Information for Phase I Applications
+### 2. Research and Related Other Project Information for Phase I Applications
 
 Complete questions in Fields 1 through 6 of the SF-424 Research and Related Other Project Information form. 
 
@@ -74,7 +134,7 @@ Lastly, based on requirements and guidance in 10 C.F.R. § 1021.102 and DOE’s 
 
 The bulk of your application will consist of files attached to the Research and Related Other Project Information form. The files must comply with the following instructions: 
 
-### Project Summary/Abstract (Field 7 on the Form)
+#### Project Summary/Abstract (Field 7 on the Form)
 
 The project summary/abstract is a summary of the proposed activity suitable for distribution to the public and sufficient to permit potential reviewers to identify conflicts of interest. It must be a self-contained document. The project summary/abstract must be comprised of: • The project title, application stage (Phase I), the PI name and the PI’s institutional affiliation, and any coinvestigators and their institutional affiliations. This information will not count toward the abstract’s one-page limit. 
 
@@ -82,9 +142,9 @@ The project summary/abstract is a summary of the proposed activity suitable for 
 
 If an application is recommended for award, the project summary will be used in preparing a public abstract about the award. Award abstracts and titles form a Government document that describes the project and justifies the expenditure of Federal funds in light of the DOE and SC mission statements at https://energy.gov/mission and https://science.osti.gov/about/. • Do not include any proprietary or sensitive business information. • DOE may use the abstract to prepare public reports about supported research. 
 
-### DOE Title Page
+#### DOE Title Page
 
-### (Part of Project Narrative attached to Field 8 on the form)
+#### (Part of Project Narrative attached to Field 8 on the form)
 
 The application narrative must begin with a title page that will not count toward the Project Narrative page limitation. The title page must include the following items: • The project title: • Lead Applicant/Institution: • Street Address: Include the street, city, state, and ZIP code. • Postal Address: If different then the street address, provide the postal address. • Lead PI name, telephone number, email: • Administrative Point of Contact name, telephone number, email: • RFA Number: Include the RFA number printed on the cover of this RFA • Application Stage: Phase I • The primary challenge and focus area as identified in Section III of this RFA: [For example, 1-A Reenvisioning Advanced Manufacturing and Industrial Productivity | Agentic AI-Driven Chemical Manufacturing] 
 
@@ -110,7 +170,7 @@ Important Instructions to the Sponsored Research Office of Submitting Institutio
 
 * Note that collaborating applications must be submitted separately. 
 
-### Project Narrative (Field 8 on the form)
+#### Project Narrative (Field 8 on the form)
 
 The Project Narrative must not exceed a page limit of five pages of technical information, including charts, graphs, maps, photographs, and other pictorial presentations, when printed using standard letter-size (8.5-inch x 11-inch) paper with one-inch margins (top, bottom, 
 
@@ -152,35 +212,35 @@ Do not attach any of the requested appendices described below as files for Field
 
 Biographical sketches and current and pending support may no longer be provided as attachments to a Project Narrative. These documents must be attached to the Research and Related Senior/Key Person Profile (Expanded) form in an application. 
 
-### Appendix 1: Bibliography & References Cited
+#### Appendix 1: Bibliography & References Cited
 
 Provide a bibliography of any references cited in the Project Narrative. Each reference must include the names of all authors (in the same sequence in which they appear in the publication), the article and journal title, book title, volume number, page numbers, and year of publication. For research areas where there are routinely more than ten coauthors of archival publications, you may use an abbreviated style such as the Physical Review Letters (PRL) 
 
 convention for citations (listing only the first author). For example, your paper may be listed as, “A Really Important New Result,” A. Aardvark et. al. (MONGO Collaboration), PRL 999. Include only bibliographic citations. Applicants should be especially careful to follow scholarly practices in providing citations for source materials relied upon when preparing any section of the application. Provide the Bibliography and References Cited information as an appendix to your Project Narrative. • This appendix will not count in the Project Narrative page limitation. • Do not attach a bibliography to Field 9 of the Research and Related Other Project Information form. 
 
-### Appendix 2: Facilities & Other Resources
+#### Appendix 2: Facilities & Other Resources
 
 This information is used to assess the capability of the organizational resources, including subrecipient resources, available to perform the effort proposed. Identify the resources and/or facilities to be used (Laboratory, Animal, Computer, Office, Clinical and Other). If appropriate, indicate their capacities, pertinent capabilities, relative proximity, and extent of availability to the project. Describe only those resources that are directly applicable to the proposed work. Describe the computing, networking, and data resources required to conduct the proposed work; while DOE does not intend to imply that these computing requirements will be satisfied, DOE foresees that computing resources may be available from the DOE/NNSA National Laboratories and/or private-sector Genesis Mission partners in support of applications under this call. Describe current computing allocations that will be used to support the proposed work, or the intent to apply for computing allocations. Computational resource estimates should also be provided in the Genesis Mission Phase I Application Template excel file attached to Field 12. Describe other necessary resources available to the project (e.g., machine shop, electronic shop) and the extent to which they would be available to the project. For proposed investigations requiring access to experimental user facilities maintained by institutions other than the applicant, please provide a document from the facility manager confirming that the researchers will have access to the facility. Such documents, provided that they do not become letters of support or recommendation, may be printed on any letterhead. Please provide the Facility and Other Resource information as an appendix to your Project Narrative. • This appendix should be no more than one page when printed using standard letter-size (8.5-inch x 11-inch) paper with one-inch margins (top, bottom, left, and right). • This appendix will not count in the Project Narrative page limitation. • Do not attach a facilities and other resources statement to Field 10 of the Research and Related Other Project Information form. 
 
-### Appendix 3: Equipment
+#### Appendix 3: Equipment
 
 List major items of equipment planned for use in this project and, if appropriate, identify location and pertinent capabilities. Provide the Equipment information as an appendix to your Project Narrative. • This appendix should be no more than half a page when printed using standard letter-size (8.5-inch x 11-inch) paper with one-inch margins (top, bottom, left, and right). • This appendix will not count toward the Project Narrative page limitation. 
 
 • Do not attach an equipment statement to Field 11 of the Research and Related Other Project Information form. 
 
-### Appendix 4: Data Management and Sharing Plan
+#### Appendix 4: Data Management and Sharing Plan
 
 A Data Management and Sharing Plan (DMSP) is NOT required as an appendix to the project narrative but it will be required during award negotiation. Information about DMSPs is below. Subject to the applicable cost principles, applications may request costs necessary for implementing the DMSP. 
 
 The standard requirements for a DMSP may be found in Section IX of this RFA. In addition, the DMSP should specifically address: • How FAIR (Findable, Accessible, Interoperable, and Reusable)11 principles will apply to the anticipated data sets, software12, and models13 to be developed. • What developed software, data sets, and models will be made available using an “opensource” licensing arrangement, noting the Software Package Data Exchange (SPDX) identifier(s) (https://spdx.org/licenses/) when possible, and where deviation in this arrangement is expected from The Open Source Initiative’s “Open Source Definition” (https://opensource.org/osd), a specific justification must be provided. • How best practices in scientific software development will be applied to any development activities. For more information on best practices, see Better Scientific Software (https://bssw.io/). 
 
-### Appendix 5: Synergistic Activities (Optional)
+#### Appendix 5: Synergistic Activities (Optional)
 
 In addition to biographical sketches in the Common Format, each senior/key person has the option to provide a one-page list of no more than five distinct examples of synergistic activities that demonstrate the individual’s professional and scholarly activities that focus on the integration, transfer, and creation of knowledge as related to the application. • Do not attach a separate file to Field 12 of the Research and Related Other Project Information form. • This appendix may not exceed a limit of the same number of pages as senior/key personnel when printed using standard letter-size (8.5-inch x 11-inch) paper with one-inch margins (top, bottom, left, and right). This appendix will not count in the Project Narrative page limitation. 
 
 11 Wilkinson, M. D. et al. The FAIR Guiding Principles for Scientific Data Management and Stewardship. Sci. Data 3:160018, 2016. https://doi.org/10.1038/sdata.2016.18 12 Chue Hong, N. P., Katz, D. S., Barker, M., Lamprecht, A-L, Martinez, C., Psomopoulos, F. E., Harrow, J., Castro, L. J., Gruenpeter, M., Martinez, P. A., Honeyman, T., et al. (2022). FAIR Principles for Research Software version 1.0. (FAIR4RS Principles v1.0). Research Data Alliance. DOI: https://doi.org/10.15497/RDA00068 13 Ravi, N., Chaturvedi, P., Huerta, E.A. et al. FAIR principles for AI models with a practical application for accelerated high energy diffraction microscopy. Sci Data 9, 657 (2022). https://doi.org/10.1038/s41597-022-01712-9 
 
-### Appendix 6: Transparency of Foreign Connections
+#### Appendix 6: Transparency of Foreign Connections
 
 You must provide a Transparency of Foreign Connections disclosure and certification as it relates to the proposed recipient and subrecipients. Include a separate disclosure for the applicant and each proposed subrecipient. 
 
@@ -194,17 +254,17 @@ Questions: Contact rtesinfo@hq.doe.gov
 
 DOE reserves the right to request additional or clarifying information based on the information submitted. 
 
-### Appendix 7: Other Attachment
+#### Appendix 7: Other Attachment
 
 As an appendix to your Project Narrative, include the required letters of commitment and any optional letters of collaboration or access. In this appendix, you may also include any needed elaboration to your responses to questions 1-6 on the “Other Project Information” document or information not easily accessible to a reviewer. However, do not use this appendix to circumvent the page limitations of the application. • Do not attach a separate file to Field 12 of the Research and Related Other Project Information form. • This appendix will not count in the Project Narrative page limitation. 
 
-### Reminders Regarding all Appendices
+#### Reminders Regarding all Appendices
 
 • Follow the above instructions to include the information as appendices to the Project Narrative file. • These appendices will not count toward the Project Narrative’s page limitation. 
 
 • Do not attach any appendices to Fields 9, 10, 11, or 12. 
 
-## 3. Research and Related Other Project Information for Phase II Applications
+### 3. Research and Related Other Project Information for Phase II Applications
 
 Complete questions in Fields 1 through 6 of the SF-424 Research and Related Other Project Information form. 
 
@@ -218,7 +278,7 @@ Lastly, based on requirements and guidance in 10 C.F.R. § 1021.102 and DOE’s 
 
 The bulk of your application will consist of files attached to the Research and Related Other Project Information form. The files must comply with the following instructions: 
 
-### Project Summary/Abstract (Field 7 on the Form)
+#### Project Summary/Abstract (Field 7 on the Form)
 
 The project summary/abstract is a summary of the proposed activity suitable for distribution to the public and sufficient to permit potential reviewers to identify conflicts of interest. It must be a self-contained document. The project summary/abstract must be comprised of: • The project title, application stage (Phase II), the PI name and the PI’s institutional affiliation, and any coinvestigators and their institutional affiliations. This information will not count toward the abstract’s one-page limit. 
 
@@ -226,9 +286,9 @@ The project summary/abstract is a summary of the proposed activity suitable for 
 
 If an application is recommended for award, the project summary will be used in preparing a public abstract about the award. Award abstracts and titles form a Government document that describes the project and justifies the expenditure of Federal funds in light of the DOE and SC mission statements at https://energy.gov/mission and https://science.osti.gov/about/. • Do not include any proprietary or sensitive business information. • DOE may use the abstract to prepare public reports about supported research. 
 
-### DOE Title Page
+#### DOE Title Page
 
-### (Part of Project Narrative attached to Field 8 on the form)
+#### (Part of Project Narrative attached to Field 8 on the form)
 
 The application narrative must begin with a title page that will not count toward the Project Narrative page limitation. The title page must include the following items: • The project title: • Lead Applicant/Institution: • Street Address: Include the street, city, state, and ZIP code. • Postal Address: If different then the street address, provide the postal address. • Lead PI name, telephone number, email: • Administrative Point of Contact name, telephone number, email: • RFA Number: Include the RFA number printed on the cover of this RFA • Application Stage: Phase II • The primary challenge and focus area as identified in Section III of this RFA: [For example, 1-A Reenvisioning Advanced Manufacturing and Industrial Productivity | Agentic AI-Driven Chemical Manufacturing] 
 
@@ -254,7 +314,7 @@ Important Instructions to the Sponsored Research Office of Submitting Institutio
 
 * Note that collaborating applications must be submitted separately. 
 
-### Project Narrative (Field 8 on the form)
+#### Project Narrative (Field 8 on the form)
 
 The Project Narrative must clearly articulate a vision for the science and/or applied energy initiatives that will be pursued and a description of how and why AI will enhance the 
 
@@ -298,19 +358,19 @@ Do not attach any of the requested appendices described below as files for Field
 
 Biographical sketches and current and pending support may no longer be provided as attachments to a Project Narrative. These documents must be attached to the Research and Related Senior/Key Person Profile (Expanded) form in an application. 
 
-### Appendix 1: Bibliography & References Cited
+#### Appendix 1: Bibliography & References Cited
 
 Provide a bibliography of any references cited in the Project Narrative. Each reference must include the names of all authors (in the same sequence in which they appear in the publication), the article and journal title, book title, volume number, page numbers, and year of publication. For research areas where there are routinely more than ten coauthors of archival publications, you may use an abbreviated style such as the Physical Review Letters (PRL) convention for citations (listing only the first author). For example, your paper may be listed as, “A Really Important New Result,” A. Aardvark et. al. (MONGO Collaboration), PRL 999. Include only bibliographic citations. Applicants should be especially careful to follow scholarly practices in providing citations for source materials relied upon when preparing any section of the application. Provide the Bibliography and References Cited information as an appendix to your Project Narrative. • This appendix will not count in the Project Narrative page limitation. • Do not attach a bibliography to Field 9 of the Research and Related Other Project Information form. 
 
-### Appendix 2: Facilities & Other Resources
+#### Appendix 2: Facilities & Other Resources
 
 This information is used to assess the capability of the organizational resources, including subrecipient resources, available to perform the effort proposed. Identify the resources and/or facilities to be used (Laboratory, Animal, Computer, Office, Clinical and Other). If appropriate, indicate their capacities, pertinent capabilities, relative proximity, and extent of availability to the project. Describe only those resources that are directly applicable to the proposed work. Describe the computing, networking, and data resources required to conduct the proposed work; while DOE does not intend to imply that these computing requirements will be satisfied, DOE foresees that computing resources may be available from the DOE/NNSA National Laboratories and/or private-sector Genesis Mission partners in support of applications under this call. Describe current computing allocations that will be used to support the proposed work, or the intent to apply for computing allocations. Computational resource estimates should also be provided in the Genesis Mission Phase II Application Template excel file attached to Field 12. Describe other necessary resources available to the project (e.g., machine shop, electronic shop) and the extent to which they would be available to the project. For proposed investigations requiring access to experimental user facilities maintained by institutions other than the applicant, please provide a document from the facility manager confirming that the researchers will have access to the facility. Such documents, provided that they do not become letters of support or recommendation, may be printed on any letterhead. Please provide the Facility and Other Resource information as an appendix to your Project Narrative. • This appendix should be no more than one page per institution when printed using standard letter-size (8.5-inch x 11-inch) paper with one-inch margins (top, bottom, left, and right). If an institution has six or more senior/key personnel, responses should be no more than two pages for that institution. In many cases, responses will be much shorter. • This appendix will not count in the Project Narrative page limitation. • Do not attach a “Facilities & Other Resources” statement to Field 10 of the Research and Related Other Project Information form. 
 
-### Appendix 3: Equipment
+#### Appendix 3: Equipment
 
 List major items of equipment planned for use in this project and, if appropriate, identify location and pertinent capabilities. Provide the Equipment information as an appendix to your Project Narrative. • This appendix should be no more than one page per institution when printed using standard letter-size (8.5-inch x 11-inch) paper with one-inch margins (top, bottom, left, and right). In many cases, responses will be much shorter. • This appendix will not count toward the Project Narrative page limitation. • Do not attach an equipment statement to Field 11 of the Research and Related Other Project Information form. 
 
-### Appendix 4: Data Management and Sharing Plan
+#### Appendix 4: Data Management and Sharing Plan
 
 Provide a Data Management and Sharing Plan (DMSP) as an appendix to the project narrative. Subject to the applicable cost principles, applications may request costs necessary for implementing the DMSP. 
 
@@ -318,13 +378,13 @@ Provide a Data Management and Sharing Plan (DMSP) as an appendix to the project 
 
 The standard requirements for a DMSP may be found in Section IX of this RFA. In addition, the DMSP should specifically address: • How FAIR (Findable, Accessible, Interoperable, and Reusable)14 principles will apply to the anticipated data sets, software15, and models16 to be developed. • What developed software, data sets, and models will be made available using an “opensource” licensing arrangement, noting the Software Package Data Exchange (SPDX) identifier(s) (https://spdx.org/licenses/) when possible, and where deviation in this arrangement is expected from The Open Source Initiative’s “Open Source Definition” (https://opensource.org/osd), a specific justification must be provided. • How best practices in scientific software development will be applied to any development activities. For more information on best practices, see Better Scientific Software (https://bssw.io/). 
 
-### Appendix 5: Synergistic Activities (Optional)
+#### Appendix 5: Synergistic Activities (Optional)
 
 In addition to biographical sketches in the Common Format, each senior/key person has the option to provide a one-page list of no more than five distinct examples of synergistic activities that demonstrate the individual’s professional and scholarly activities that focus on the integration, transfer, and creation of knowledge as related to the application. • Do not attach a separate file to Field 12 of the Research and Related Other Project Information form. • This appendix may not exceed a limit of the same number of pages as senior/key personnel when printed using standard letter-size (8.5-inch x 11-inch) paper with one-inch margins (top, bottom, left, and right). This appendix will not count in the Project Narrative page limitation. 
 
 14 Wilkinson, M. D. et al. The FAIR Guiding Principles for Scientific Data Management and Stewardship. Sci. Data 3:160018, 2016. https://doi.org/10.1038/sdata.2016.18 15 Chue Hong, N. P., Katz, D. S., Barker, M., Lamprecht, A-L, Martinez, C., Psomopoulos, F. E., Harrow, J., Castro, L. J., Gruenpeter, M., Martinez, P. A., Honeyman, T., et al. (2022). FAIR Principles for Research Software version 1.0. (FAIR4RS Principles v1.0). Research Data Alliance. DOI: https://doi.org/10.15497/RDA00068 16 Ravi, N., Chaturvedi, P., Huerta, E.A. et al. FAIR principles for AI models with a practical application for accelerated high energy diffraction microscopy. Sci Data 9, 657 (2022). https://doi.org/10.1038/s41597-022-01712-9 
 
-### Appendix 6: Transparency of Foreign Connections
+#### Appendix 6: Transparency of Foreign Connections
 
 You must provide a Transparency of Foreign Connections disclosure and certification as it relates to the proposed recipient and subrecipients. Include a separate disclosure for the applicant and each proposed subrecipient. 
 
@@ -338,15 +398,15 @@ Questions: Contact rtesinfo@hq.doe.gov
 
 DOE reserves the right to request additional or clarifying information based on the information submitted. 
 
-### Appendix 7: Other Attachment
+#### Appendix 7: Other Attachment
 
 As an appendix to your Project Narrative, include the required letters of commitment and any optional letters of collaboration or access. In this appendix, you may also include any needed elaboration to your responses to questions 1-6 on the “Other Project Information” document or information not easily accessible to a reviewer. However, do not use this appendix to circumvent the page limitations of the application. • Do not attach a separate file to Field 12 of the Research and Related Other Project Information form. • This appendix will not count in the Project Narrative page limitation. 
 
-### Reminders Regarding all Appendices
+#### Reminders Regarding all Appendices
 
 • Follow the above instructions to include the information as appendices to the Project Narrative file. • These appendices will not count toward the Project Narrative’s page limitation. • Do not attach any appendices to Fields 9, 10, 11, or 12. 
 
-## 4. Research and Related Senior/Key Person Profile (Expanded)
+### 4. Research and Related Senior/Key Person Profile (Expanded)
 
 Complete the Research and Related Senior/Key Person Profile (Expanded) form in accordance with the instructions on the form and the following instructions. Complete this form before the Budget form to populate data on the Budget form. 
 
@@ -354,13 +414,13 @@ You must submit this information for the PI and all senior/key personnel who wil
 
 The Senior/Key Person Profile (Expanded) form will support the PI and up to 99 additional senior/key personnel. On the addition of the 99th senior/key person, you will be presented with an option to upload an additional file with the required information for all other senior/key personnel. 
 
-## 5. Research And Related Budget
+### 5. Research And Related Budget
 
 Complete the Research and Related Budget form in accordance with the instructions on the form (Activate Help Mode to see instructions) and the following instructions. You must complete a separate budget for each year of support requested. The form will generate a cumulative budget for the total project period. You must complete all the mandatory information on the form before the NEXT PERIOD button is activated. All fields with a red border are required, but you may enter a zero “0” in any field in which funds are not being requested. You may request funds under any of the categories listed as long as the item and amount are necessary to perform the proposed work, meet all the criteria for allowability under the applicable Federal cost principles, and are not prohibited by the funding restrictions in this RFA. 
 
 Additional information is found in Section IX of this RFA. 
 
-### Budget Justification (Field L on the form)
+#### Budget Justification (Field L on the form)
 
 Provide a justification that explains all costs proposed in the budget. The following items of advice are offered to assist you in developing a justification. • Organize the justification by listing items in the same order as presented on the budget. • Ensure that the narrative matches the budget in dollar amounts and language. • Explain the line items. If costs are estimated, provide a basis for the estimate. Explain if costs are based on prior experience of similar activities. If a cost is based on the product of two numbers (such as a number of items at a per-item price), ensure that your math is correct. • If including an inflationary factor for future budget periods, explain the basis for the inflationary factor. 
 
@@ -372,13 +432,13 @@ Attach a single budget justification file for the entire project period in Field
 
 Additional information is found in Section IX of this RFA. 
 
-## 6. R&R Subaward Budget Attachment(s) Form
+### 6. R&R Subaward Budget Attachment(s) Form
 
 Budgets for Subawards: You must provide a separate R&R budget and budget justification for each subrecipient. Download the R&R Budget Attachment from the R&R SUBAWARD BUDGET ATTACHMENT(S) FORM and either email it to each subrecipient that is required to submit a separate budget or use the collaborative features of Workspace. After the subrecipient has either emailed its completed budget back to you or completed it within Workspace, attach it to one of the blocks provided on the form. All fields with a red border are required, but you may enter a zero “0” in any field in which funds are not being requested. Use up to ten letters of the subrecipient’s name (plus.pdf) as the file name (e.g., ucla.pdf or energyres.pdf). Filenames must not exceed 50 characters. If the project involves more subrecipients than there are places in the SUBAWARD BUDGET ATTACHMENT(S) FORM, the additional subaward budgets may be saved as PDF files and appended to the Budget Justification attached to Field L. Applicants should consult their local information technology support resources for any necessary assistance in converting the forms downloaded from Grants.gov into plain PDF files that can be combined into one non-Portfolio PDF file (the Budget Justification) that any files received from subrecipients are the PDF files extracted from the SUBAWARD BUDGET ATTACHMENT(S) FORM. Errors will be created if a subrecipient sends a prime applicant a budget form that was not extracted from the application package. 
 
 Note: The prime award budget request should include any subawards to a DOE/NNSA National Laboratory, a Federal agency, another Federal agency’s FFRDC, or Genesis Mission Consortium members, and subaward budgets and budget justifications should be included in the application; the details of such proposed budgets are essential for understanding and analyzing the proposed research. If recommended for an award, a revised budget will be requested where the value of such proposed subawards is deducted from any resulting award: Those classes of organizations may be paid directly by DOE. 
 
-## 7. Project/Performance Site Location(s)
+### 7. Project/Performance Site Location(s)
 
 Indicate the primary site where the work will be performed. If a portion of the project will be performed at any other site(s), identify the site location(s) in the blocks provided. 
 
@@ -386,16 +446,24 @@ Note that the Project/Performance Site Congressional District is entered in the 
 
 Use the Next Site button to expand the form to add additional Project/Performance Site Locations. 
 
-## 8. Disclosure of Lobbying Activities (SF-LLL)
+### 8. Disclosure of Lobbying Activities (SF-LLL)
 
 If any funds other than Federal appropriated funds have been paid or will be paid to any person for influencing or attempting to influence an officer or employee of any agency, a Member of Congress, an officer or employee of Congress, or an employee of a Member of Congress in connection with the OT agreement, you must complete and submit Standard Form - LLL, “Disclosure Form to Report Lobbying.” Applicants that have never paid any person for influencing or attempting to influence an officer or employee of any agency, a Member of Congress, an officer or employee of Congress, or an employee of a Member of Congress do not need to submit this form. 
 
-## 9. Identification of Merit Reviewer Conflicts
+### 9. Identification of Merit Reviewer Conflicts
 
 Provide a list of individuals who should not serve as merit reviewers of this application, following the instructions in Section IX of this RFA. Attach this information to Field 12 of the Research and Related Other Project Information Form. 
 
-## 10. Summary of Required Forms/Files
+### 10. Summary of Required Forms/Files
 
 Your application must include the following items: 
 
-Name of Document Format Attach to SF 424 (R&R) Form N/A RESEARCH AND RELATED Other Project Information Form N/A
+Name of Document Format Attach to SF 424 (R&R) Form N/A RESEARCH AND RELATED Other Project Information Form N/A 
+
+Name of Document Format Attach to Project Summary/Abstract PDF Field 7 Project Narrative, including required appendices PDF Field 8 Identification of Merit Review Conflicts File Field 12 Genesis Mission Phase I or II Application Template, as appropriate. File Field 12 RESEARCH & RELATED Senior/Key Person Profile (Expanded) Form N/A RESEARCH & RELATED BUDGET Form N/A Budget Justification PDF Field L R&R SUBAWARD BUDGET ATTACHMENT(S) FORM (if applicable) Form N/A Subaward Budget Justification (if applicable) PDF Field L of the subaward budget PROJECT/PERFORMANCE SITE LOCATION(S) Form N/A SF-LLL Disclosure of Lobbying Activities, if applicable Form N/A 
+
+## D. Information that Must be Submitted After Application but Before Award
+
+If selected for award, DOE reserves the right to request additional or clarifying information for any reason deemed necessary, including, but not limited to: • Indirect cost information • Other budget information • Name and phone number of the Designated Responsible Employee for complying with national policies prohibiting discrimination (See 10 C.F.R. § 1040.5 (2025)) • Representation of Limited Rights Data and Restricted Software, if applicable • Commitment Letter from Third Parties Contributing to Cost Sharing, if applicable • Environmental Information • Information required to resolve concerns about conflicts of interest, conflicts of commitment, potential duplication of support • PHASE I APPLICATIONS ONLY: Data management and sharing plans 
+
+Applicants that are not institutions of higher education, that request indirect costs, and that do not already have an Indirect Cost Rate Agreement with their Cognizant Federal Agency or documentation of rates accepted for estimating purposes by DOE or another Federal agency, are advised to begin preparing an Indirect Cost Rate Proposal for submission, upon request, to the DOE contract specialist/grants management specialist who will evaluate your application if you are selected for award.
