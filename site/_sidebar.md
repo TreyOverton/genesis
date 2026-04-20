@@ -1,5 +1,21 @@
-- [Home](/)
-- [About](about.md)
+- [Summary](/)
+- [Open Questions](open-questions.md)
+- **APPLICATION**
+- [Overview](application/)
+- [Project Narrative](application/project-narrative.md)
+- [Project Summary (Abstract)](application/project-summary.md)
+- [DOE Title Page](application/doe-title-page.md)
+- [Budget & Justification](application/budget.md)
+- [Senior/Key Personnel](application/personnel.md)
+- [Forms & Administrative](application/forms.md)
+- **APPENDICES**
+- [1. Bibliography & References](application/appendix-1-bibliography.md)
+- [2. Facilities & Resources](application/appendix-2-facilities.md)
+- [3. Equipment](application/appendix-3-equipment.md)
+- [4. Data Management Plan](application/appendix-4-data-management.md)
+- [5. Synergistic Activities](application/appendix-5-synergistic.md)
+- [6. Transparency of Foreign Connections](application/appendix-6-foreign.md)
+- [7. Letters of Commitment & Collaboration](application/appendix-7-letters.md)
 - **GENESIS RFA**
 - [Overview](rfa/)
 - [I. Basic Information](rfa/pages/1-basic-information.md)
