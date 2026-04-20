@@ -8,7 +8,7 @@ window.TABULAKIT_CONFIG = {
   // Site identity
   name: "Genesis",
   description: "Preparing a grant proposal as part of the DOE's Genesis Mission",
-  logo: "",  // Path to logo image (optional, shown in sidebar)
+  logo: "assets/logo.png",  // Path to logo image (optional, shown in sidebar)
 
   // Theme colors (CSS custom property overrides)
   theme: {
