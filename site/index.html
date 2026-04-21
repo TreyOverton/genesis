@@ -26,7 +26,11 @@
     <p id="auth-site-desc"></p>
     <p class="subtitle" id="auth-hint"></p>
     <button id="sign-in-btn" onclick="signIn()">Sign in with Google</button>
+    <div class="auth-divider">or</div>
+    <input id="email-link-input" type="email" placeholder="you@example.com" autocomplete="email">
+    <button id="email-link-btn" onclick="sendEmailLink()">Email me a sign-in link</button>
     <p id="auth-error" class="error" style="display:none"></p>
+    <p id="auth-info" class="info" style="display:none"></p>
   </div>
   <div id="app"></div>
 
@@ -167,7 +171,7 @@
       if (auth.mode === "domain") {
         document.getElementById('auth-hint').textContent = "Sign in with your " + auth.allowedDomain + " account";
       } else {
-        document.getElementById('auth-hint').textContent = "Sign in with an authorized Google account";
+        document.getElementById('auth-hint').textContent = "Sign in with an authorized account";
       }
 
       // Load Firebase and set up auth
@@ -185,7 +189,7 @@
       initScript.type = 'module';
       initScript.textContent = [
         'import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.0/firebase-app.js";',
-        'import { getAuth, signInWithPopup, onAuthStateChanged, GoogleAuthProvider } from "https://www.gstatic.com/firebasejs/11.6.0/firebase-auth.js";',
+        'import { getAuth, signInWithPopup, onAuthStateChanged, GoogleAuthProvider, sendSignInLinkToEmail, isSignInWithEmailLink, signInWithEmailLink } from "https://www.gstatic.com/firebasejs/11.6.0/firebase-auth.js";',
         '',
         'var auth = window.TABULAKIT_AUTH;',
         'var app = initializeApp(auth.firebase);',
@@ -197,11 +201,13 @@
         '}',
         '',
         'function checkEmail(email) {',
+        '  if (!email) return false;',
         '  if (auth.mode === "domain") {',
-        '    return email.endsWith("@" + auth.allowedDomain);',
+        '    return email.toLowerCase().endsWith("@" + auth.allowedDomain.toLowerCase());',
         '  }',
         '  if (auth.mode === "allowlist") {',
-        '    return (auth.allowedEmails || []).indexOf(email) !== -1;',
+        '    var lower = email.toLowerCase();',
+        '    return (auth.allowedEmails || []).some(function(e) { return e.toLowerCase() === lower; });',
         '  }',
         '  return false;',
         '}',
@@ -210,7 +216,16 @@
         '  var el = document.getElementById("auth-error");',
         '  el.textContent = msg;',
         '  el.style.display = "";',
+        '  document.getElementById("auth-info").style.display = "none";',
         '  document.getElementById("sign-in-btn").disabled = false;',
+        '  document.getElementById("email-link-btn").disabled = false;',
+        '}',
+        '',
+        'function showInfo(msg) {',
+        '  var el = document.getElementById("auth-info");',
+        '  el.textContent = msg;',
+        '  el.style.display = "";',
+        '  document.getElementById("auth-error").style.display = "none";',
         '}',
         '',
         'window.signIn = async function() {',
@@ -228,6 +243,50 @@
         '    showError("Sign-in failed. Please try again.");',
         '  }',
         '};',
+        '',
+        'window.sendEmailLink = async function() {',
+        '  var input = document.getElementById("email-link-input");',
+        '  var email = (input.value || "").trim();',
+        '  if (!email) { showError("Enter your email address."); return; }',
+        '  if (!checkEmail(email)) { showError("That email is not on the access list."); return; }',
+        '  document.getElementById("email-link-btn").disabled = true;',
+        '  document.getElementById("auth-error").style.display = "none";',
+        '  var actionCodeSettings = {',
+        '    url: window.location.origin + window.location.pathname,',
+        '    handleCodeInApp: true',
+        '  };',
+        '  try {',
+        '    await sendSignInLinkToEmail(fbAuth, email, actionCodeSettings);',
+        '    window.localStorage.setItem("emailForSignIn", email);',
+        '    showInfo("Sign-in link sent to " + email + ". Click the link in your inbox to finish signing in. You can close this tab.");',
+        '  } catch (e) {',
+        '    showError("Could not send sign-in link: " + (e.message || e.code || "unknown error"));',
+        '  }',
+        '};',
+        '',
+        '// Complete email-link sign-in if the current URL is a sign-in link',
+        'if (isSignInWithEmailLink(fbAuth, window.location.href)) {',
+        '  var storedEmail = window.localStorage.getItem("emailForSignIn") || "";',
+        '  if (!storedEmail) {',
+        '    storedEmail = window.prompt("Please confirm the email you used to request the sign-in link:") || "";',
+        '  }',
+        '  if (storedEmail) {',
+        '    signInWithEmailLink(fbAuth, storedEmail, window.location.href)',
+        '      .then(function(result) {',
+        '        window.localStorage.removeItem("emailForSignIn");',
+        '        if (!checkEmail(result.user.email)) {',
+        '          fbAuth.signOut();',
+        '          showError("Access denied. Your account is not authorized.");',
+        '          return;',
+        '        }',
+        '        history.replaceState({}, document.title, window.location.origin + window.location.pathname);',
+        '        window.__tabulakit_loadDocsify();',
+        '      })',
+        '      .catch(function(e) {',
+        '        showError("Sign-in link invalid or expired. Please request a new one.");',
+        '      });',
+        '  }',
+        '}',
         '',
         '// Auto-login for returning users',
         'if (location.hostname === "localhost" || location.hostname === "127.0.0.1") {',
