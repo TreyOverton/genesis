@@ -1,4 +1,21 @@
-# TabulaKit
+# Genesis — DOE Grant Application Site
+
+This site documents a Phase I DOE grant application under **DE-FOA-0003612** (Genesis Mission), deadline **2026-04-28**. Lead applicant: **Heatherstone LLC** (Trey Overton). Collaborator: Eric Jorgenson.
+
+Focus area between 1-D and 2-E is TBD — see [site/open-questions.md](../site/open-questions.md) and [site/win-likelihood.md](../site/win-likelihood.md).
+
+## Site structure (Genesis-specific)
+
+Beyond the default TabulaKit layout, `site/` has four project-specific areas — visible in [`site/_sidebar.md`](../site/_sidebar.md):
+
+- **Top-level decision docs** — `README.md` (summary), `open-questions.md`, `win-likelihood.md`
+- **`application/`** — draft components of the submitted application: Project Narrative, Project Summary (Abstract), DOE Title Page, Budget & Justification, Senior/Key Personnel, Forms & Administrative (checklist), plus numbered appendices 1–7 (Bibliography, Facilities, Equipment, Data Management Plan, Synergistic Activities, Foreign Connections, Letters of Commitment)
+- **`forms/`** — field-by-field drafts of Grants.gov forms (SF-424 (R&R), R&R Budget, etc.). These are *source-of-truth data docs* for what we transcribe into the Grants.gov Workspace at submission time, not content that appears inside the single-PDF Project Narrative
+- **`rfa/pages/`** — full text of the RFA (sections I–IX), preserved for reference and deep-linking from other pages
+
+When adding content, match this convention: narrative content → `application/`, form data → `forms/`, RFA reference → `rfa/pages/`. Sidebar groups by section header.
+
+## TabulaKit baseline
 
 TabulaKit is a documentation site template powered by [Docsify](https://docsify.js.org/). It renders markdown files as a single-page application with zero build step — edit markdown, push, and your site updates automatically.
 
