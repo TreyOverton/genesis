@@ -5,11 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>TabulaKit</title>
   <link rel="icon" type="image/png" href="favicon.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-title" content="Genesis Grant">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="theme-color" content="#0A1735">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
   <script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
   <script>mermaid.initialize({ startOnLoad: false, securityLevel: 'loose', theme: 'dark', themeVariables: { primaryColor: '#2E4057', primaryTextColor: '#ddd', primaryBorderColor: '#3bc0cb', lineColor: '#3bc0cb', secondaryColor: '#333', tertiaryColor: '#222' } });</script>
@@ -26,11 +21,7 @@
     <p id="auth-site-desc"></p>
     <p class="subtitle" id="auth-hint"></p>
     <button id="sign-in-btn" onclick="signIn()">Sign in with Google</button>
-    <div class="auth-divider">or</div>
-    <input id="email-link-input" type="email" placeholder="you@example.com" autocomplete="email">
-    <button id="email-link-btn" onclick="sendEmailLink()">Email me a sign-in link</button>
     <p id="auth-error" class="error" style="display:none"></p>
-    <p id="auth-info" class="info" style="display:none"></p>
   </div>
   <div id="app"></div>
 
@@ -81,12 +72,6 @@
           name: sidebarName,
           repo: false,
           loadSidebar: true,
-          // Force any nested _sidebar.md request back to the root file,
-          // so Firebase's catch-all rewrite doesn't serve index.html as
-          // the sidebar on deep-linked pages.
-          alias: {
-            '/.*/_sidebar.md': '/_sidebar.md'
-          },
           subMaxLevel: docsifyOpts.subMaxLevel || 3,
           auto2top: true,
           search: docsifyOpts.search ? {
@@ -171,7 +156,7 @@
       if (auth.mode === "domain") {
         document.getElementById('auth-hint').textContent = "Sign in with your " + auth.allowedDomain + " account";
       } else {
-        document.getElementById('auth-hint').textContent = "Sign in with an authorized account";
+        document.getElementById('auth-hint').textContent = "Sign in with an authorized Google account";
       }
 
       // Load Firebase and set up auth
@@ -189,7 +174,7 @@
       initScript.type = 'module';
       initScript.textContent = [
         'import { initializeApp } from "https://www.gstatic.com/firebasejs/11.6.0/firebase-app.js";',
-        'import { getAuth, signInWithPopup, onAuthStateChanged, GoogleAuthProvider, sendSignInLinkToEmail, isSignInWithEmailLink, signInWithEmailLink } from "https://www.gstatic.com/firebasejs/11.6.0/firebase-auth.js";',
+        'import { getAuth, signInWithPopup, onAuthStateChanged, GoogleAuthProvider } from "https://www.gstatic.com/firebasejs/11.6.0/firebase-auth.js";',
         '',
         'var auth = window.TABULAKIT_AUTH;',
         'var app = initializeApp(auth.firebase);',
@@ -201,13 +186,11 @@
         '}',
         '',
         'function checkEmail(email) {',
-        '  if (!email) return false;',
         '  if (auth.mode === "domain") {',
-        '    return email.toLowerCase().endsWith("@" + auth.allowedDomain.toLowerCase());',
+        '    return email.endsWith("@" + auth.allowedDomain);',
         '  }',
         '  if (auth.mode === "allowlist") {',
-        '    var lower = email.toLowerCase();',
-        '    return (auth.allowedEmails || []).some(function(e) { return e.toLowerCase() === lower; });',
+        '    return (auth.allowedEmails || []).indexOf(email) !== -1;',
         '  }',
         '  return false;',
         '}',
@@ -216,16 +199,7 @@
         '  var el = document.getElementById("auth-error");',
         '  el.textContent = msg;',
         '  el.style.display = "";',
-        '  document.getElementById("auth-info").style.display = "none";',
         '  document.getElementById("sign-in-btn").disabled = false;',
-        '  document.getElementById("email-link-btn").disabled = false;',
-        '}',
-        '',
-        'function showInfo(msg) {',
-        '  var el = document.getElementById("auth-info");',
-        '  el.textContent = msg;',
-        '  el.style.display = "";',
-        '  document.getElementById("auth-error").style.display = "none";',
         '}',
         '',
         'window.signIn = async function() {',
@@ -243,50 +217,6 @@
         '    showError("Sign-in failed. Please try again.");',
         '  }',
         '};',
-        '',
-        'window.sendEmailLink = async function() {',
-        '  var input = document.getElementById("email-link-input");',
-        '  var email = (input.value || "").trim();',
-        '  if (!email) { showError("Enter your email address."); return; }',
-        '  if (!checkEmail(email)) { showError("That email is not on the access list."); return; }',
-        '  document.getElementById("email-link-btn").disabled = true;',
-        '  document.getElementById("auth-error").style.display = "none";',
-        '  var actionCodeSettings = {',
-        '    url: window.location.origin + window.location.pathname,',
-        '    handleCodeInApp: true',
-        '  };',
-        '  try {',
-        '    await sendSignInLinkToEmail(fbAuth, email, actionCodeSettings);',
-        '    window.localStorage.setItem("emailForSignIn", email);',
-        '    showInfo("Sign-in link sent to " + email + ". Click the link in your inbox to finish signing in. You can close this tab.");',
-        '  } catch (e) {',
-        '    showError("Could not send sign-in link: " + (e.message || e.code || "unknown error"));',
-        '  }',
-        '};',
-        '',
-        '// Complete email-link sign-in if the current URL is a sign-in link',
-        'if (isSignInWithEmailLink(fbAuth, window.location.href)) {',
-        '  var storedEmail = window.localStorage.getItem("emailForSignIn") || "";',
-        '  if (!storedEmail) {',
-        '    storedEmail = window.prompt("Please confirm the email you used to request the sign-in link:") || "";',
-        '  }',
-        '  if (storedEmail) {',
-        '    signInWithEmailLink(fbAuth, storedEmail, window.location.href)',
-        '      .then(function(result) {',
-        '        window.localStorage.removeItem("emailForSignIn");',
-        '        if (!checkEmail(result.user.email)) {',
-        '          fbAuth.signOut();',
-        '          showError("Access denied. Your account is not authorized.");',
-        '          return;',
-        '        }',
-        '        history.replaceState({}, document.title, window.location.origin + window.location.pathname);',
-        '        window.__tabulakit_loadDocsify();',
-        '      })',
-        '      .catch(function(e) {',
-        '        showError("Sign-in link invalid or expired. Please request a new one.");',
-        '      });',
-        '  }',
-        '}',
         '',
         '// Auto-login for returning users',
         'if (location.hostname === "localhost" || location.hostname === "127.0.0.1") {',
